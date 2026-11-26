@@ -1,0 +1,18 @@
+Fig1.tif	1900 x 1080 px	(source: figures/fig_architecture.png)
+    Figure 1 Structure of the prediction system. The geological model, the records of the current hole and the multi-area history feed a common feature engine (one row per meter). The trajectory and geological-model ensemble feeds Models H, A and B and the drilling-response rules R1–R8, which produce levels, warning zones with a ±u depth band, SHAP-based reasons and the probability of reaching the target. Finished holes return to the history and the models are retrained.
+Fig2.tif	2000 x 840 px	(source: figures/fig_trajectory.png)
+    Figure 2 Trajectory ensemble of the ongoing hole DH-2026-001 in the SB3 demonstration area (synthetic benchmark): (a) plan view and (b) vertical section along the hole. Red: drilled part from the surveys (minimum curvature). Dashed: predicted mean path. Gray: trial paths. Green: straight design. The trial paths begin at the bit (182 m) and spread toward the target depth.
+Fig3.tif	1800 x 1080 px	(source: figures/fig_rocks.png)
+    Figure 3 Default uniaxial compressive strength (log scale) versus Cerchar abrasivity index of the 46 rock classes. Points are typical values and bars the minimum–maximum ranges, colored by group. The gridlines mark the strength-class and abrasivity-class boundaries used as features.
+Fig4.tif	2000 x 760 px	(source: figures/fig_dataset.png)
+    Figure 4 Synthetic benchmark: (a) finished and failed holes per area and (b) failures per family and area (karst and fluid, hole instability, trajectory, bit and string). All drilling records are simulated.
+Fig5.tif	1500 x 680 px	(source: figures/fig_auc_by_area.png)
+    Figure 5 Hole-level concordance C per held-out area in leave-one-area-out validation (synthetic benchmark). Dashed line: pooled C = 0.75.
+Fig6.tif	2200 x 720 px	(source: figures/fig_ablation.png)
+    Figure 6 Ablation study (synthetic benchmark): (a) pooled hole-level concordance C, (b) meter-level ROC-AUC for karst and fluid and for hole instability, and (c) recall at Orange at least 3 m ahead, for the full model and the variants of Table 6.
+Fig7.tif	2720 x 919 px	(source: figures/fig_shap.png)
+    Figure 7 Global feature importance (mean |SHAP| on the log-odds scale, 40,000 random training rows) of the cavity model H and the failure models A for karst and fluid, hole instability and trajectory (synthetic benchmark). Labels are the plain-language feature texts used in the warnings.
+Fig8.tif	2200 x 720 px	(source: figures/fig_hazard_three.png)
+    Figure 8 Mean per-meter hazard by failure family along the three current holes of the SB3 demonstration area (synthetic benchmark), averaged over the trial paths. The vertical line marks the bit depth of the ongoing holes; titles give the probability of reaching the target depth.
+Fig9.tif	1275 x 1275 px	(source: figures/risklog_DH-2026-001.png)
+    Figure 9 Risk log of the ongoing hole DH-2026-001 (SB3 demonstration area, synthetic benchmark). From left: formation along the predicted path (fault F4 in red), Model H cavity and fault-zone probability, risk index per family (level bands at 0.15, 0.35 and 0.60), and the resulting level. The white line marks the bit at 182 m and the dashed lines the red zone with its ±u band.

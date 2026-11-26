@@ -1,0 +1,12 @@
+# --- NEVER commit the license master secret ---
+vendor_private_key.pem
+*.pem
+*.key
+license.key
+
+# build / caches / venv
+.venv/
+dist/
+build/
+__pycache__/
+*.pyc

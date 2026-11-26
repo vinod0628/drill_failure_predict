@@ -1,0 +1,21 @@
+{
+  "units": [
+    "U1",
+    "U2",
+    "U3",
+    "U4",
+    "U5",
+    "U6"
+  ],
+  "u_near": 8.0,
+  "u_far": 30.0,
+  "d_far": 250.0,
+  "fault_zone": 12.0,
+  "thickness_factor": 0.1,
+  "voxel": [
+    5.0,
+    5.0,
+    2.0
+  ],
+  "control_holes": "drillholes of the project database (collars)"
+}

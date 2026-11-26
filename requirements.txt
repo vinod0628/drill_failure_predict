@@ -1,0 +1,32 @@
+# Drill Failure Predict - direct dependencies (Python 3.10, Windows x64).
+# The exact, complete set used for the offline install is requirements-offline.txt (made in M7).
+
+# --- runtime: GeoViewer base -------------------------------------------------
+numpy               # arrays
+pandas              # tables
+pyarrow             # fast CSV reading for large block models
+vtk                 # OpenGL rendering engine
+pyvista             # pythonic VTK meshes / plotter
+pyvistaqt           # VTK render window inside a Qt widget
+PySide6-Essentials  # Qt 6 GUI - LGPL
+QtAwesome           # Material Design icons
+matplotlib          # colour maps
+ezdxf               # DXF support library
+access-parser       # Surpac drillhole .accdb/.mdb without ODBC
+PyMySQL[rsa]        # MySQL project database (optional setting)
+openpyxl            # Excel import / export
+cryptography>=42    # .gvbm block model encryption (AES-GCM)
+
+# --- runtime: drilling risk models ---------------------------------------------
+scipy               # KD-trees, interpolation, FFT, optimisation
+scikit-learn        # random forest, logistic regression, SVM, MLP, GPR, metrics
+lightgbm            # gradient boosting (Models H, A, B; tree SHAP values)
+h5py                # netCDF4 / HDF5 grids (optional reader)
+tifffile            # GeoTIFF grids (optional reader)
+
+# --- development ------------------------------------------------------------------
+pytest
+pyflakes
+
+# --- build / release ----------------------------------------------------------------
+pyinstaller

@@ -1,0 +1,4 @@
+rig_model,depth_PQ,depth_HQ,depth_NQ,depth_BQ,max_rpm,pump_lpm,pull_kn,max_torque
+CS14,350,700,1000,1300,1300,120,90,2400
+LF90,300,600,850,1100,1200,100,80,2000
+XY-44,200,420,620,800,1000,90,60,1600

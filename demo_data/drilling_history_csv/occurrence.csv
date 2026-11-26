@@ -1,0 +1,1668 @@
+hole_id,depth_from,depth_to,type,measures,solved,notes
+A01-003,13.5,14.5,clay,M-SP-02;M-SP-04;M-SP-01,N,SP event
+A01-003,0.0,14.0,fault,,Y,fault zone
+A01-004,146.5,147.5,broken,M-CL-01,Y,CL event
+A01-004,407.5,408.5,water,M-WI-01,Y,WI event
+A01-004,428.5,429.5,broken,M-CL-01,N,CB event
+A01-004,405.0,429.0,fault,,Y,fault zone
+A01-006,409.01,410.17,cavity,,Y,met while drilling
+A01-010,34.5,35.5,clay,M-SP-04,Y,SP event
+A01-010,0.0,43.0,fault,,Y,fault zone
+A01-016,382.5,383.5,clay,M-SP-01;M-SP-03,Y,SP event
+A01-022,148.5,149.5,clay,M-SP-03,Y,SP event
+A01-022,119.0,153.0,fault,,Y,fault zone
+A01-025,273.5,274.5,clay,M-SP-01,Y,SP event
+A01-025,280.5,281.5,broken,M-CL-03;M-CS-01,Y,CL event
+A01-025,242.0,287.0,fault,,Y,fault zone
+A01-026,136.5,137.5,broken,M-CL-01;M-CS-01,Y,CL event
+A01-032,25.16,26.28,loss,M-LC-02,Y,LC event
+A01-032,25.16,26.28,cavity,,Y,met while drilling
+A01-032,39.3,40.2,cavity,,Y,met while drilling
+A01-034,133.21,133.92,cavity,M-LC-06,Y,CV event
+A01-034,33.38,33.78,cavity,,Y,met while drilling
+A01-034,43.31,49.64,cavity,,Y,met while drilling
+A01-034,112.42,115.54,cavity,,Y,met while drilling
+A01-034,144.01,149.08,cavity,,Y,met while drilling
+A01-040,93.38,94.43,cavity,M-CV-01;M-LC-07,Y,CV event
+A01-040,120.12,124.87,cavity,M-CV-01;M-LC-06;M-CV-02,Y,CV event
+A01-040,89.35,89.67,cavity,,Y,met while drilling
+A01-041,93.18,95.7,cavity,,Y,met while drilling
+A01-041,125.36,127.29,cavity,,Y,met while drilling
+A01-042,157.5,158.5,other,M-BH-03,Y,BW event
+A01-045,120.13,123.75,loss,M-LC-03;M-LC-04,N,LC event
+A01-045,54.09,56.59,cavity,,Y,met while drilling
+A01-045,62.46,68.5,cavity,,Y,met while drilling
+A01-045,90.07,91.14,cavity,,Y,met while drilling
+A01-045,120.13,123.75,cavity,,Y,met while drilling
+A01-050,121.5,122.5,other,M-BH-03,Y,BW event
+A01-052,225.5,226.5,broken,M-CL-01,Y,CL event
+A01-052,283.5,284.5,broken,M-CL-01,Y,CL event
+A01-052,308.5,309.5,broken,M-CL-03,Y,CL event
+A01-052,393.5,394.5,water,M-WI-01,Y,WI event
+A01-052,205.0,401.0,fault,,Y,fault zone
+A01-053,185.5,186.5,broken,M-CL-01,N,CB event
+A01-054,201.5,202.5,broken,M-CL-01;M-CL-03,Y,CL event
+A01-057,51.37,54.85,cavity,M-LC-07,Y,CV event
+A01-059,46.18,48.01,cavity,,Y,met while drilling
+A01-062,361.5,362.5,other,M-DV-01,N,DV event
+A01-062,144.0,183.0,fault,,Y,fault zone
+A01-064,35.36,36.57,loss,M-LC-04,Y,LC event
+A01-064,49.05,49.8,loss,M-LC-07,Y,LC event
+A01-064,111.19,114.38,loss,M-LC-02;M-LC-07,Y,LC event
+A01-064,35.36,36.57,cavity,,Y,met while drilling
+A01-064,49.05,49.8,cavity,,Y,met while drilling
+A01-064,111.19,114.38,cavity,,Y,met while drilling
+A01-066,85.33,86.17,cavity,M-LC-07,Y,CV event
+A01-071,36.27,37.28,cavity,M-LC-07,Y,CV event
+A01-071,154.06,155.68,loss,M-LC-03,N,LC event
+A01-071,154.06,155.68,cavity,,Y,met while drilling
+A01-074,22.23,24.38,cavity,,Y,met while drilling
+A01-074,31.08,35.06,cavity,,Y,met while drilling
+A01-074,93.39,98.95,cavity,,Y,met while drilling
+A01-076,30.5,31.5,other,M-BG-01,Y,BG event
+A01-076,145.5,146.5,other,M-DV-01,N,DV event
+A01-084,316.5,317.5,broken,M-CL-03,Y,CL event
+A01-085,28.5,29.84,cavity,,Y,met while drilling
+A01-086,104.5,105.57,loss,M-LC-06,Y,LC event
+A01-086,90.18,90.92,cavity,,Y,met while drilling
+A01-086,104.5,105.57,cavity,,Y,met while drilling
+A01-086,205.46,206.07,cavity,,Y,met while drilling
+A01-086,236.0,276.0,fault,,Y,fault zone
+A01-087,28.5,29.5,broken,M-CS-01,N,CL event
+A01-089,75.31,76.77,loss,M-LC-03,N,LC event
+A01-089,68.34,70.04,cavity,,Y,met while drilling
+A01-089,75.31,76.77,cavity,,Y,met while drilling
+A01-091,185.5,186.5,broken,M-CL-02;M-CS-01,Y,CL event
+A01-091,203.5,204.5,broken,M-CL-03,Y,CL event
+A01-091,213.5,214.5,broken,M-CL-01,N,CB event
+A01-091,77.0,214.0,fault,,Y,fault zone
+A01-093,115.5,116.5,other,M-DV-01,Y,DV event
+A01-095,209.16,212.35,cavity,,Y,met while drilling
+A01-096,67.5,68.5,other,M-BH-03,N,BW event
+A01-096,33.42,34.26,cavity,,Y,met while drilling
+A01-102,5.15,7.45,cavity,M-LC-06;M-LC-07,Y,CV event
+A01-102,79.31,79.72,loss,M-LC-07,Y,LC event
+A01-102,79.31,79.72,cavity,,Y,met while drilling
+A01-104,391.5,392.5,water,M-WI-01,Y,WI event
+A01-104,379.0,419.0,fault,,Y,fault zone
+A01-105,303.16,308.07,loss,M-LC-02,Y,LC event
+A01-105,303.16,308.07,cavity,,Y,met while drilling
+A01-106,518.5,519.5,other,M-DV-01,Y,DV event
+A01-111,256.45,257.66,cavity,,Y,met while drilling
+A01-115,113.14,113.85,cavity,,Y,met while drilling
+A01-115,137.07,141.3,cavity,,Y,met while drilling
+A01-115,177.38,181.01,cavity,,Y,met while drilling
+A01-116,249.28,251.53,cavity,,Y,met while drilling
+A01-117,262.0,346.0,fault,,Y,fault zone
+A01-123,98.45,99.7,cavity,M-LC-07,Y,CV event
+A01-123,170.14,171.84,loss,M-LC-02;M-LC-06,Y,LC event
+A01-123,105.02,105.53,cavity,,Y,met while drilling
+A01-123,170.14,171.84,cavity,,Y,met while drilling
+A01-124,1.16,5.49,loss,M-LC-01;M-LC-06,Y,LC event
+A01-124,1.16,5.49,cavity,,Y,met while drilling
+A01-126,172.28,178.28,loss,M-LC-03,Y,LC event
+A01-126,172.28,178.28,cavity,,Y,met while drilling
+A01-137,121.5,122.5,other,M-BH-03,N,BW event
+A01-139,66.0,67.44,loss,M-LC-02,Y,LC event
+A01-139,128.21,130.57,cavity,M-LC-07,Y,CV event
+A01-139,66.0,67.44,cavity,,Y,met while drilling
+A01-140,27.01,28.01,cavity,,Y,met while drilling
+A01-140,54.31,54.92,cavity,,Y,met while drilling
+A01-140,130.25,130.97,cavity,,Y,met while drilling
+A01-143,169.08,169.82,loss,M-LC-01;M-LC-03,Y,LC event
+A01-143,396.5,397.5,other,M-DV-01,Y,DV event
+A01-143,163.2,165.64,cavity,,Y,met while drilling
+A01-143,169.08,169.82,cavity,,Y,met while drilling
+A01-145,41.17,42.12,loss,M-LC-06,Y,LC event
+A01-145,41.17,42.12,cavity,,Y,met while drilling
+A01-147,300.5,301.5,clay,M-SP-03,Y,SP event
+A01-150,342.5,343.5,other,M-BH-03,Y,BW event
+A02-001,114.5,115.5,broken,M-CL-02,Y,CL event
+A02-001,101.3,103.33,cavity,,Y,met while drilling
+A02-002,0.0,17.0,fault,,Y,fault zone
+A02-003,475.0,563.0,fault,,Y,fault zone
+A02-007,327.5,328.5,other,M-DV-01,Y,DV event
+A02-009,36.5,37.5,clay,M-SP-04;M-SP-03,Y,SP event
+A02-009,0.0,51.0,fault,,Y,fault zone
+A02-016,60.4,60.69,loss,M-LC-04,N,LC event
+A02-016,60.4,60.69,cavity,,Y,met while drilling
+A02-017,87.15,90.6,loss,M-LC-07,Y,LC event
+A02-017,87.15,90.6,cavity,,Y,met while drilling
+A02-019,21.28,21.65,cavity,M-CV-01;M-LC-07,Y,CV event
+A02-019,26.44,27.61,cavity,,Y,met while drilling
+A02-020,154.0,232.0,fault,,Y,fault zone
+A02-022,13.4,16.67,loss,M-LC-06,Y,LC event
+A02-022,13.4,16.67,cavity,,Y,met while drilling
+A02-023,44.33,46.73,cavity,M-CV-02,Y,CV event
+A02-024,10.45,15.63,loss,M-LC-06,Y,LC event
+A02-024,23.07,25.27,cavity,M-CV-02,Y,CV event
+A02-024,92.28,92.83,cavity,M-LC-07,Y,CV event
+A02-024,238.5,239.5,broken,M-CL-01;M-CL-02,Y,CL event
+A02-024,10.45,15.63,cavity,,Y,met while drilling
+A02-024,65.09,67.2,cavity,,Y,met while drilling
+A02-025,182.22,182.8,loss,M-LC-02,Y,LC event
+A02-025,348.5,349.5,other,M-DV-01,Y,DV event
+A02-025,51.32,55.94,cavity,,Y,met while drilling
+A02-025,66.43,67.58,cavity,,Y,met while drilling
+A02-025,182.22,182.8,cavity,,Y,met while drilling
+A02-026,491.5,492.5,other,M-DV-01,N,DV event
+A02-028,65.5,66.5,other,M-DV-01,N,DV event
+A02-029,362.5,363.5,broken,M-CS-01,Y,CL event
+A02-030,163.0,313.0,fault,,Y,fault zone
+A02-031,28.42,28.62,loss,M-LC-02,Y,LC event
+A02-031,28.42,28.62,cavity,,Y,met while drilling
+A02-034,17.5,18.5,other,M-DV-01,Y,DV event
+A02-034,577.5,578.5,broken,M-CS-01,Y,CL event
+A02-034,522.0,600.0,fault,,Y,fault zone
+A02-035,83.36,85.74,cavity,,Y,met while drilling
+A02-035,141.33,141.96,cavity,,Y,met while drilling
+A02-037,47.38,50.78,cavity,M-CV-02,Y,CV event
+A02-037,442.5,443.5,other,M-DV-01,Y,DV event
+A02-037,76.48,77.73,cavity,,Y,met while drilling
+A02-038,42.5,43.5,broken,M-CL-01;M-BH-01,N,CB event
+A02-041,360.5,361.5,other,M-DV-01,Y,DV event
+A02-042,74.22,75.72,cavity,M-CV-01;M-LC-07,Y,CV event
+A02-042,451.5,452.5,other,M-DV-01,Y,DV event
+A02-042,102.0,160.0,fault,,Y,fault zone
+A02-043,22.03,23.81,cavity,M-LC-06,Y,CV event
+A02-043,384.5,385.5,other,M-DV-01,Y,DV event
+A02-043,34.45,34.73,cavity,,Y,met while drilling
+A02-044,78.5,79.5,other,M-DV-01,N,DV event
+A02-045,171.5,172.5,broken,M-CL-02;M-CL-01;M-CS-01,Y,CL event
+A02-045,220.5,221.5,other,M-DV-01,Y,DV event
+A02-046,68.5,69.5,broken,M-CL-02,Y,CL event
+A02-046,0.0,231.0,fault,,Y,fault zone
+A02-048,351.5,352.5,other,M-DV-01,Y,DV event
+A02-051,6.5,7.36,cavity,,Y,met while drilling
+A02-051,30.2,30.5,cavity,,Y,met while drilling
+A02-054,316.5,317.5,water,M-WI-01,Y,WI event
+A02-054,226.0,356.0,fault,,Y,fault zone
+A02-056,415.5,416.5,other,M-DV-01,Y,DV event
+A02-058,428.5,429.5,broken,M-CL-02,Y,CL event
+A02-059,93.5,94.5,broken,M-CS-01,Y,CL event
+A02-059,161.02,161.99,loss,M-LC-07,Y,LC event
+A02-059,161.02,161.99,cavity,,Y,met while drilling
+A02-059,85.0,124.0,fault,,Y,fault zone
+A02-061,129.5,130.5,other,M-DV-01,N,DV event
+A02-062,107.5,108.5,other,M-DV-01,N,DV event
+A02-064,177.5,178.5,broken,M-CS-01,Y,CL event
+A02-064,200.5,201.5,broken,M-CS-01;M-CL-03,Y,CL event
+A02-064,166.0,250.0,fault,,Y,fault zone
+A02-065,15.5,16.5,clay,M-SP-02,Y,SP event
+A02-065,189.11,192.72,cavity,,Y,met while drilling
+A02-070,47.44,49.36,loss,M-LC-06,Y,LC event
+A02-070,287.5,288.5,clay,M-SP-01,N,SP event
+A02-070,47.44,49.36,cavity,,Y,met while drilling
+A02-070,99.38,100.39,cavity,,Y,met while drilling
+A02-072,63.5,64.5,other,M-DV-01,Y,DV event
+A02-079,77.16,81.2,loss,M-LC-07,N,LC event
+A02-079,37.31,38.05,cavity,,Y,met while drilling
+A02-079,77.16,81.2,cavity,,Y,met while drilling
+A02-084,190.5,191.5,other,M-DV-01,N,DV event
+A02-087,22.36,23.18,cavity,M-LC-06,N,CV event
+A02-087,16.0,23.0,fault,,Y,fault zone
+A02-089,110.13,110.71,cavity,M-LC-06,Y,CV event
+A02-090,20.5,21.5,other,M-DV-01,Y,DV event
+A02-090,82.5,83.5,other,M-DV-01,Y,DV event
+A02-090,243.5,244.5,other,M-DV-01,N,DV event
+A02-092,304.5,305.5,clay,M-SP-02,Y,SP event
+A02-092,355.5,356.5,clay,M-SP-03,Y,SP event
+A02-092,20.25,22.14,cavity,,Y,met while drilling
+A02-092,289.0,367.0,fault,,Y,fault zone
+A02-093,101.28,101.58,loss,M-LC-03,Y,LC event
+A02-093,233.08,237.83,loss,M-LC-04;M-LC-06;M-LC-07,Y,LC event
+A02-093,233.08,234.08,clay,M-SP-03,N,SP event
+A02-093,101.28,101.58,cavity,,Y,met while drilling
+A02-093,233.08,237.83,cavity,,Y,met while drilling
+A02-093,230.0,237.0,fault,,Y,fault zone
+A02-094,224.5,225.5,broken,M-CL-03,Y,CL event
+A02-094,238.5,239.5,broken,M-CL-01,Y,CL event
+A02-094,262.5,263.5,water,M-WI-01,Y,WI event
+A02-094,470.5,471.5,broken,M-CL-03,Y,CL event
+A02-094,200.0,272.0,fault,,Y,fault zone
+A02-096,1.03,3.62,loss,M-LC-02;M-LC-04,N,LC event
+A02-096,1.03,3.62,cavity,,Y,met while drilling
+A02-097,51.47,53.08,loss,M-LC-06,Y,LC event
+A02-097,51.47,53.08,cavity,,Y,met while drilling
+A02-099,33.34,33.6,loss,M-LC-01;M-LC-07,Y,LC event
+A02-099,127.39,128.45,cavity,M-LC-06,Y,CV event
+A02-099,33.34,33.6,cavity,,Y,met while drilling
+A02-100,118.5,119.5,broken,M-CL-01,Y,CL event
+A02-101,72.31,73.82,cavity,M-LC-07,Y,CV event
+A02-101,94.39,96.11,cavity,M-CV-02,Y,CV event
+A02-103,14.42,15.91,cavity,M-LC-07,Y,CV event
+A02-103,52.18,52.95,cavity,M-LC-07,Y,CV event
+A02-103,0.03,0.42,cavity,,Y,met while drilling
+A02-104,73.27,73.9,cavity,M-CV-02;M-LC-07,Y,CV event
+A02-104,128.5,129.5,broken,M-CL-02,N,CL event
+A02-106,274.5,275.5,broken,M-CS-01,Y,CL event
+A02-107,330.5,331.5,other,M-BH-03,Y,BW event
+A02-108,162.5,163.5,broken,M-CL-01,Y,CL event
+A02-108,171.5,172.5,water,M-WI-01,N,WI event
+A02-108,111.0,172.0,fault,,Y,fault zone
+A02-111,15.22,16.24,cavity,M-LC-06,Y,CV event
+A02-112,364.5,365.5,broken,M-CL-01,Y,CL event
+A02-112,0.0,64.0,fault,,Y,fault zone
+A02-113,78.25,79.31,loss,M-LC-02;M-LC-06,Y,LC event
+A02-113,85.43,85.63,loss,M-LC-01;M-LC-06,Y,LC event
+A02-113,78.25,79.31,cavity,,Y,met while drilling
+A02-113,85.43,85.63,cavity,,Y,met while drilling
+A02-115,280.5,281.5,broken,M-CL-01,Y,CL event
+A02-120,224.5,225.5,broken,M-CL-01,N,CL event
+A02-120,34.17,35.42,cavity,,Y,met while drilling
+A02-120,60.08,60.69,cavity,,Y,met while drilling
+A02-120,109.06,110.1,cavity,,Y,met while drilling
+A02-123,37.34,40.32,loss,M-LC-04,Y,LC event
+A02-123,37.34,40.32,cavity,,Y,met while drilling
+A02-127,120.03,121.22,loss,M-LC-01;M-LC-02,N,LC event
+A02-127,120.03,121.22,cavity,,Y,met while drilling
+A02-127,8.0,69.0,fault,,Y,fault zone
+A02-127,97.0,121.0,fault,,Y,fault zone
+A02-129,0.0,11.0,fault,,Y,fault zone
+A02-130,144.5,145.5,broken,M-CL-01,Y,CB event
+A02-130,113.0,172.0,fault,,Y,fault zone
+A02-131,265.5,266.5,other,M-DV-01,Y,DV event
+A02-131,300.5,301.5,other,M-DV-01,N,DV event
+A02-132,20.22,23.41,cavity,M-LC-07,Y,CV event
+A02-132,31.5,32.5,other,M-DV-01,N,DV event
+A02-133,305.5,306.5,other,M-DV-01,N,DV event
+A02-134,21.0,24.77,cavity,M-CV-02,N,CV event
+A02-135,278.5,279.5,other,M-DV-01,N,DV event
+A02-136,176.5,177.5,clay,M-SP-03,Y,SP event
+A02-136,208.5,209.5,clay,M-SP-01;M-SP-02,Y,SP event
+A02-136,135.0,223.0,fault,,Y,fault zone
+A02-137,15.25,15.5,cavity,,Y,met while drilling
+A02-138,5.47,5.67,cavity,M-CV-02,N,CV event
+A02-139,7.5,8.5,clay,M-SP-04,Y,SP event
+A02-139,30.49,33.92,loss,M-LC-02;M-LC-01;M-LC-07,Y,LC event
+A02-139,64.5,65.5,clay,M-SP-04;M-SP-02,N,SP event
+A02-139,12.21,13.58,cavity,,Y,met while drilling
+A02-139,30.49,33.92,cavity,,Y,met while drilling
+A02-139,0.0,65.0,fault,,Y,fault zone
+A02-141,45.26,46.47,cavity,M-LC-06,Y,CV event
+A02-142,84.15,86.35,cavity,,Y,met while drilling
+A02-143,35.43,36.55,loss,M-LC-03,Y,LC event
+A02-143,130.28,130.51,loss,M-LC-02;M-LC-03,N,LC event
+A02-143,35.43,36.55,cavity,,Y,met while drilling
+A02-143,130.28,130.51,cavity,,Y,met while drilling
+A02-146,109.15,110.45,cavity,,Y,met while drilling
+A02-149,63.5,64.5,other,M-BH-03,Y,BW event
+A02-150,612.0,650.0,fault,,Y,fault zone
+A03-001,104.5,105.5,broken,M-CL-02,Y,CL event
+A03-001,128.5,129.5,broken,M-CS-01,Y,CL event
+A03-001,78.0,137.0,fault,,Y,fault zone
+A03-002,6.5,7.5,broken,M-CS-01,Y,CL event
+A03-002,0.0,66.0,fault,,Y,fault zone
+A03-003,140.49,141.22,cavity,,Y,met while drilling
+A03-003,403.0,458.0,fault,,Y,fault zone
+A03-005,376.5,377.5,broken,M-CL-01;M-BH-01,N,CB event
+A03-005,117.0,154.0,fault,,Y,fault zone
+A03-005,345.0,377.0,fault,,Y,fault zone
+A03-007,268.5,269.5,broken,M-CL-01,Y,CL event
+A03-007,242.0,296.0,fault,,Y,fault zone
+A03-009,238.26,238.88,loss,M-LC-06,Y,LC event
+A03-009,238.26,238.88,cavity,,Y,met while drilling
+A03-009,150.0,286.0,fault,,Y,fault zone
+A03-011,542.5,543.5,clay,M-SP-03,Y,SP event
+A03-011,125.19,129.75,cavity,,Y,met while drilling
+A03-011,167.2,168.93,cavity,,Y,met while drilling
+A03-011,488.0,564.0,fault,,Y,fault zone
+A03-017,241.32,243.81,cavity,M-LC-06,Y,CV event
+A03-017,328.5,329.5,broken,M-CL-01,Y,CB event
+A03-017,343.5,344.5,broken,M-CS-01,Y,CL event
+A03-017,353.5,354.5,clay,M-SP-01;M-SP-02,Y,SP event
+A03-017,379.5,380.5,clay,M-SP-04,Y,SP event
+A03-017,309.0,394.0,fault,,Y,fault zone
+A03-018,0.0,34.0,fault,,Y,fault zone
+A03-019,30.4,38.6,cavity,,Y,met while drilling
+A03-020,69.16,74.26,cavity,M-LC-06;M-CV-01,N,CV event
+A03-020,25.0,70.0,fault,,Y,fault zone
+A03-023,289.5,290.5,broken,M-BH-01,Y,CB event
+A03-024,51.45,52.57,cavity,M-LC-06,Y,CV event
+A03-024,109.14,110.8,cavity,M-CV-01,Y,CV event
+A03-026,82.11,85.06,cavity,M-CV-01;M-CV-02,Y,CV event
+A03-026,198.28,198.71,loss,M-LC-01;M-LC-07,Y,LC event
+A03-026,180.24,182.6,cavity,,Y,met while drilling
+A03-026,198.28,198.71,cavity,,Y,met while drilling
+A03-026,29.0,106.0,fault,,Y,fault zone
+A03-029,547.5,548.5,broken,M-CS-01,Y,CL event
+A03-029,543.0,550.0,fault,,Y,fault zone
+A03-032,13.5,14.5,broken,M-CL-01;M-CS-01,Y,CL event
+A03-032,15.5,16.5,clay,M-SP-04,Y,SP event
+A03-032,0.0,34.0,fault,,Y,fault zone
+A03-034,253.5,254.5,broken,M-BH-01;M-CL-01,N,CB event
+A03-034,0.0,2.0,fault,,Y,fault zone
+A03-034,229.0,254.0,fault,,Y,fault zone
+A03-035,143.35,143.55,cavity,,Y,met while drilling
+A03-036,529.5,530.5,other,M-DV-01,N,DV event
+A03-036,130.0,163.0,fault,,Y,fault zone
+A03-037,344.13,345.93,cavity,M-LC-07,Y,CV event
+A03-037,356.5,357.5,clay,M-SP-04,Y,SP event
+A03-037,327.0,365.0,fault,,Y,fault zone
+A03-038,240.5,241.5,broken,M-CL-01;M-BH-01,N,CB event
+A03-038,233.0,241.0,fault,,Y,fault zone
+A03-039,90.27,93.93,cavity,M-LC-07,Y,CV event
+A03-039,29.13,29.67,cavity,,Y,met while drilling
+A03-039,42.33,47.11,cavity,,Y,met while drilling
+A03-040,343.0,450.0,fault,,Y,fault zone
+A03-041,9.5,10.5,broken,M-CL-03,Y,CL event
+A03-041,0.0,36.0,fault,,Y,fault zone
+A03-043,407.5,408.5,clay,M-SP-02;M-SP-04,Y,SP event
+A03-043,409.5,410.5,broken,M-CL-03,Y,CL event
+A03-043,330.0,500.0,fault,,Y,fault zone
+A03-045,70.3,71.09,loss,M-LC-06,Y,LC event
+A03-045,264.5,265.5,clay,M-SP-03,Y,SP event
+A03-045,70.3,71.09,cavity,,Y,met while drilling
+A03-047,139.42,141.32,cavity,M-CV-01,N,CV event
+A03-048,432.5,433.5,broken,M-CL-01,Y,CL event
+A03-048,385.0,433.0,fault,,Y,fault zone
+A03-052,174.5,175.5,broken,M-BH-01,Y,CB event
+A03-052,64.33,65.84,cavity,,Y,met while drilling
+A03-053,94.5,95.5,broken,M-CL-01,N,CB event
+A03-053,79.0,95.0,fault,,Y,fault zone
+A03-056,94.01,94.72,loss,M-LC-04,Y,LC event
+A03-056,94.01,94.72,cavity,,Y,met while drilling
+A03-056,108.2,113.95,cavity,,Y,met while drilling
+A03-057,216.35,216.58,cavity,M-CV-01;M-LC-06,Y,CV event
+A03-057,161.0,194.0,fault,,Y,fault zone
+A03-058,426.5,427.5,clay,M-SP-02,Y,SP event
+A03-058,499.5,500.5,other,M-DV-01,Y,DV event
+A03-058,400.0,431.0,fault,,Y,fault zone
+A03-059,154.15,154.62,loss,M-LC-01;M-LC-03;M-LC-07,Y,LC event
+A03-059,154.15,154.62,cavity,,Y,met while drilling
+A03-062,74.5,75.5,broken,M-CL-01,Y,CL event
+A03-066,28.5,29.5,broken,M-CL-01,Y,CB event
+A03-066,0.0,30.0,fault,,Y,fault zone
+A03-067,274.5,275.5,clay,M-SP-02,N,SP event
+A03-067,249.0,275.0,fault,,Y,fault zone
+A03-068,9.5,10.5,clay,M-SP-04,Y,SP event
+A03-068,0.0,19.0,fault,,Y,fault zone
+A03-069,135.5,136.5,broken,M-CL-02,Y,CL event
+A03-069,129.23,130.43,cavity,,Y,met while drilling
+A03-069,107.0,177.0,fault,,Y,fault zone
+A03-070,27.4,28.52,loss,M-LC-03;M-LC-01;M-LC-04,Y,LC event
+A03-070,27.4,28.52,cavity,,Y,met while drilling
+A03-070,76.17,76.81,cavity,,Y,met while drilling
+A03-071,161.46,162.13,cavity,,Y,met while drilling
+A03-071,0.0,9.0,fault,,Y,fault zone
+A03-072,288.0,346.0,fault,,Y,fault zone
+A03-074,192.5,193.5,broken,M-CS-01,Y,CL event
+A03-074,216.5,217.5,clay,M-SP-04;M-SP-01,Y,SP event
+A03-074,217.5,218.5,broken,M-CL-01,Y,CB event
+A03-074,230.23,231.48,loss,M-LC-07,Y,LC event
+A03-074,243.5,244.5,broken,M-CL-01,Y,CL event
+A03-074,246.5,247.5,clay,M-SP-04;M-SP-03,Y,SP event
+A03-074,249.5,250.5,broken,M-CL-01,Y,CL event
+A03-074,253.5,254.5,clay,M-SP-04,Y,SP event
+A03-074,230.23,231.48,cavity,,Y,met while drilling
+A03-074,182.0,254.0,fault,,Y,fault zone
+A03-077,127.0,159.0,fault,,Y,fault zone
+A03-077,183.0,223.0,fault,,Y,fault zone
+A03-078,225.5,226.5,broken,M-CL-01;M-CL-02,Y,CL event
+A03-078,243.5,244.5,water,M-WI-01,Y,WI event
+A03-078,308.5,309.5,broken,M-CL-02,N,CL event
+A03-078,213.0,309.0,fault,,Y,fault zone
+A03-079,156.44,157.37,loss,M-LC-02,Y,LC event
+A03-079,161.09,162.05,loss,M-LC-01,N,LC event
+A03-079,156.44,157.37,cavity,,Y,met while drilling
+A03-079,161.09,162.05,cavity,,Y,met while drilling
+A03-080,483.5,484.5,broken,M-BH-01,Y,CB event
+A03-080,517.5,518.5,clay,M-SP-03;M-SP-04,Y,SP event
+A03-080,528.5,529.5,clay,M-SP-02;M-SP-01,N,SP event
+A03-080,452.0,529.0,fault,,Y,fault zone
+A03-081,590.5,591.5,broken,M-CL-02;M-CL-03,Y,CL event
+A03-081,616.5,617.5,clay,M-SP-01;M-SP-03,Y,SP event
+A03-081,620.5,621.5,broken,M-CL-01,Y,CB event
+A03-081,639.5,640.5,broken,M-CL-03,Y,CL event
+A03-081,562.0,650.0,fault,,Y,fault zone
+A03-082,183.49,183.69,cavity,M-LC-07,Y,CV event
+A03-083,302.5,303.5,broken,M-CL-03,Y,CL event
+A03-083,435.5,436.5,broken,M-CL-03,Y,CL event
+A03-083,454.5,455.5,broken,M-CL-03,Y,CL event
+A03-083,300.0,339.0,fault,,Y,fault zone
+A03-083,432.0,466.0,fault,,Y,fault zone
+A03-084,315.5,316.5,broken,M-BH-01;M-CL-01,N,CB event
+A03-085,115.0,115.88,cavity,M-LC-06,Y,CV event
+A03-085,159.18,162.55,loss,M-LC-02,Y,LC event
+A03-085,482.5,483.5,other,M-BG-01,Y,BG event
+A03-085,159.18,162.55,cavity,,Y,met while drilling
+A03-086,514.5,515.5,broken,M-CL-03,Y,CL event
+A03-086,557.5,558.5,broken,M-CL-01,Y,CL event
+A03-086,466.0,589.0,fault,,Y,fault zone
+A03-087,0.0,40.0,fault,,Y,fault zone
+A03-088,347.5,348.5,broken,M-BH-01,Y,CB event
+A03-088,334.0,350.0,fault,,Y,fault zone
+A03-089,0.0,3.0,fault,,Y,fault zone
+A03-091,110.39,111.86,cavity,M-LC-06;M-CV-02,Y,CV event
+A03-091,123.5,124.5,broken,M-CL-01,Y,CB event
+A03-091,41.14,44.82,cavity,,Y,met while drilling
+A03-091,54.48,55.97,cavity,,Y,met while drilling
+A03-091,101.0,164.0,fault,,Y,fault zone
+A03-092,260.0,325.0,fault,,Y,fault zone
+A03-095,377.5,378.5,broken,M-CL-02,N,CL event
+A03-095,374.0,378.0,fault,,Y,fault zone
+A03-098,234.5,235.5,clay,M-SP-03,Y,SP event
+A03-098,236.5,237.5,broken,M-CL-02;M-CS-01,Y,CL event
+A03-098,170.0,249.0,fault,,Y,fault zone
+A03-099,11.5,12.5,broken,M-CS-01,N,CL event
+A03-099,0.0,12.0,fault,,Y,fault zone
+A03-102,14.29,17.73,loss,M-LC-02;M-LC-01,N,LC event
+A03-102,2.25,5.85,cavity,,Y,met while drilling
+A03-102,14.29,17.73,cavity,,Y,met while drilling
+A03-102,7.0,15.0,fault,,Y,fault zone
+A03-103,202.5,203.5,broken,M-CL-01,Y,CL event
+A03-103,228.23,230.26,cavity,M-LC-07,Y,CV event
+A03-103,5.0,46.0,fault,,Y,fault zone
+A03-103,139.0,178.0,fault,,Y,fault zone
+A03-104,36.07,38.46,loss,M-LC-01;M-LC-07,Y,LC event
+A03-104,36.07,38.46,cavity,,Y,met while drilling
+A03-106,90.5,91.5,broken,M-CS-01,Y,CL event
+A03-106,110.5,111.5,water,M-WI-01,Y,WI event
+A03-106,148.5,149.5,broken,M-CL-01,N,CB event
+A03-106,0.0,149.0,fault,,Y,fault zone
+A03-107,117.47,121.42,loss,M-LC-01;M-LC-06,Y,LC event
+A03-107,117.47,121.42,cavity,,Y,met while drilling
+A03-110,373.5,374.5,clay,M-SP-03,Y,SP event
+A03-110,377.5,378.5,clay,M-SP-02,Y,SP event
+A03-110,381.5,382.5,broken,M-CS-01,Y,CL event
+A03-110,3.37,4.14,cavity,,Y,met while drilling
+A03-110,327.0,396.0,fault,,Y,fault zone
+A03-113,569.0,590.0,fault,,Y,fault zone
+A03-114,569.5,570.5,other,M-DV-01,N,DV event
+A03-114,45.27,46.35,cavity,,Y,met while drilling
+A03-114,146.09,146.91,cavity,,Y,met while drilling
+A03-116,184.5,185.5,broken,M-CL-03,Y,CL event
+A03-116,196.5,197.5,clay,M-SP-02,N,SP event
+A03-116,181.0,197.0,fault,,Y,fault zone
+A03-117,303.5,304.5,clay,M-SP-01,N,SP event
+A03-117,172.39,173.0,cavity,,Y,met while drilling
+A03-117,285.0,304.0,fault,,Y,fault zone
+A03-118,182.0,243.0,fault,,Y,fault zone
+A03-120,189.5,190.5,other,M-BH-03,N,BG event
+A03-122,305.5,306.5,broken,M-CL-03;M-CL-01,Y,CL event
+A03-122,241.0,278.0,fault,,Y,fault zone
+A03-122,290.0,319.0,fault,,Y,fault zone
+A03-123,4.23,8.54,cavity,M-LC-07,Y,CV event
+A03-123,85.1,86.2,cavity,M-CV-01,N,CV event
+A03-124,104.23,110.05,loss,M-LC-06,Y,LC event
+A03-124,83.14,84.16,cavity,,Y,met while drilling
+A03-124,104.23,110.05,cavity,,Y,met while drilling
+A03-125,208.5,209.5,clay,M-SP-04;M-SP-03,Y,SP event
+A03-125,189.0,266.0,fault,,Y,fault zone
+A03-126,347.0,395.0,fault,,Y,fault zone
+A03-127,71.43,72.81,loss,M-LC-03,Y,LC event
+A03-127,26.12,28.32,cavity,,Y,met while drilling
+A03-127,71.43,72.81,cavity,,Y,met while drilling
+A03-127,95.07,97.91,cavity,,Y,met while drilling
+A03-129,186.03,189.32,cavity,,Y,met while drilling
+A03-132,238.5,239.5,broken,M-CL-03,Y,CL event
+A03-132,43.0,99.0,fault,,Y,fault zone
+A03-133,124.0,167.0,fault,,Y,fault zone
+A03-133,248.0,250.0,fault,,Y,fault zone
+A03-137,159.05,159.44,cavity,,Y,met while drilling
+A03-145,267.29,269.58,loss,M-LC-07,Y,LC event
+A03-145,332.5,333.5,water,M-WI-01,Y,WI event
+A03-145,267.29,269.58,cavity,,Y,met while drilling
+A03-145,312.0,348.0,fault,,Y,fault zone
+A03-145,536.0,555.0,fault,,Y,fault zone
+A03-146,38.5,39.5,broken,M-CS-01,Y,CL event
+A03-146,0.0,50.0,fault,,Y,fault zone
+A03-147,328.5,329.5,clay,M-SP-03,Y,SP event
+A03-147,335.5,336.5,broken,M-BH-01;M-CL-01,Y,CB event
+A03-147,373.12,374.54,loss,M-LC-07,Y,LC event
+A03-147,373.12,374.54,cavity,,Y,met while drilling
+A03-147,316.0,344.0,fault,,Y,fault zone
+A03-149,70.29,73.58,cavity,,Y,met while drilling
+A03-150,519.0,550.0,fault,,Y,fault zone
+A04-006,56.27,58.57,cavity,M-CV-02,Y,CV event
+A04-007,106.0,108.99,loss,M-LC-07,Y,LC event
+A04-007,106.0,108.99,cavity,,Y,met while drilling
+A04-007,120.31,120.51,cavity,,Y,met while drilling
+A04-009,104.0,156.0,fault,,Y,fault zone
+A04-010,378.5,379.5,broken,M-CL-02,N,CL event
+A04-013,10.5,11.5,clay,M-SP-03,Y,SP event
+A04-013,0.0,15.0,fault,,Y,fault zone
+A04-015,285.5,286.5,other,M-DV-01,Y,DV event
+A04-018,545.5,546.5,other,M-DV-01,Y,DV event
+A04-022,322.5,323.5,clay,M-SP-04,Y,SP event
+A04-022,319.0,343.0,fault,,Y,fault zone
+A04-024,237.5,238.5,broken,M-CL-03,Y,CL event
+A04-024,172.0,241.0,fault,,Y,fault zone
+A04-025,195.29,198.72,loss,M-LC-01;M-LC-06,Y,LC event
+A04-025,195.29,198.72,cavity,,Y,met while drilling
+A04-026,252.5,253.5,broken,M-BH-01;M-CL-01,N,CB event
+A04-026,252.0,253.0,fault,,Y,fault zone
+A04-030,66.5,67.5,broken,M-CL-03,Y,CL event
+A04-035,229.5,230.5,clay,M-SP-02,Y,SP event
+A04-040,305.5,306.5,other,M-DV-01,N,DV event
+A04-045,219.5,220.5,clay,M-SP-04,Y,SP event
+A04-050,63.5,64.5,broken,M-CS-01,Y,CL event
+A04-050,113.05,113.65,cavity,,Y,met while drilling
+A04-050,131.4,131.6,cavity,,Y,met while drilling
+A04-051,334.5,335.5,other,M-DV-01,Y,DV event
+A04-054,80.18,80.86,loss,M-LC-04,Y,LC event
+A04-054,80.18,80.86,cavity,,Y,met while drilling
+A04-055,73.5,74.5,other,M-DV-01,Y,DV event
+A04-057,331.5,332.5,broken,M-BH-01,N,CB event
+A04-061,45.39,45.94,cavity,M-CV-02,Y,CV event
+A04-061,35.21,35.86,cavity,,Y,met while drilling
+A04-062,100.38,103.39,cavity,,Y,met while drilling
+A04-064,193.5,194.5,clay,M-SP-02;M-SP-04,Y,SP event
+A04-065,185.5,186.5,other,M-BH-03,N,BW event
+A04-065,0.0,26.0,fault,,Y,fault zone
+A04-066,41.5,42.5,broken,M-CS-01,Y,CL event
+A04-066,448.5,449.5,other,M-BG-01,Y,BG event
+A04-070,485.5,486.5,broken,M-BH-01,Y,CB event
+A04-070,483.0,506.0,fault,,Y,fault zone
+A04-074,162.5,163.5,broken,M-CL-03,Y,CL event
+A04-077,170.5,171.5,clay,M-SP-03;M-SP-02,N,SP event
+A04-078,4.5,5.5,clay,M-SP-04,Y,SP event
+A04-079,13.28,14.88,cavity,,Y,met while drilling
+A04-083,246.5,247.5,broken,M-CL-01,Y,CL event
+A04-086,120.11,121.42,cavity,,Y,met while drilling
+A04-087,0.0,36.0,fault,,Y,fault zone
+A04-088,434.5,435.5,broken,M-CL-02,Y,CL event
+A04-088,416.0,436.0,fault,,Y,fault zone
+A04-090,314.5,315.5,clay,M-SP-02;M-SP-04,N,SP event
+A04-091,471.5,472.5,other,M-DV-01,N,DV event
+A04-093,96.5,97.5,clay,M-SP-02,Y,SP event
+A04-095,84.5,85.5,broken,M-CL-01,Y,CB event
+A04-095,9.15,10.65,cavity,,Y,met while drilling
+A04-095,75.0,90.0,fault,,Y,fault zone
+A04-096,38.5,39.5,broken,M-CL-02,N,CL event
+A04-096,0.0,39.0,fault,,Y,fault zone
+A04-097,31.25,31.7,cavity,M-LC-07,Y,CV event
+A04-099,190.5,191.5,broken,M-CS-01,Y,CL event
+A04-099,295.5,296.5,other,M-DV-01,N,DV event
+A04-104,0.0,13.0,fault,,Y,fault zone
+A04-106,172.5,173.5,clay,M-SP-02;M-SP-03,Y,SP event
+A04-106,192.5,193.5,broken,M-CL-03,Y,CL event
+A04-110,269.5,270.5,broken,M-CL-01;M-BH-01,Y,CB event
+A04-112,487.5,488.5,broken,M-CS-01,Y,CL event
+A04-120,128.5,129.5,water,M-WI-01,Y,WI event
+A04-120,192.5,193.5,broken,M-CS-01,N,CL event
+A04-120,113.0,133.0,fault,,Y,fault zone
+A04-122,25.5,26.5,other,M-DV-01,Y,DV event
+A04-122,227.5,228.5,broken,M-CL-01,Y,CB event
+A04-124,50.45,50.65,cavity,,Y,met while drilling
+A04-126,278.0,302.0,fault,,Y,fault zone
+A04-128,166.5,167.5,other,M-DV-01,Y,DV event
+A04-129,19.5,20.5,clay,M-SP-04,Y,SP event
+A04-129,341.5,342.5,clay,M-SP-04,Y,SP event
+A04-132,0.0,9.0,fault,,Y,fault zone
+A04-135,153.49,154.7,loss,M-LC-04,Y,LC event
+A04-135,153.49,154.7,cavity,,Y,met while drilling
+A04-136,466.5,467.5,broken,M-CL-01,Y,CL event
+A04-145,350.5,351.5,other,M-DV-01,Y,DV event
+A04-150,569.5,570.5,other,M-DV-01,Y,DV event
+A04-150,199.0,220.0,fault,,Y,fault zone
+A05-001,80.41,82.11,loss,M-LC-07,Y,LC event
+A05-001,5.16,5.93,cavity,,Y,met while drilling
+A05-001,80.41,82.11,cavity,,Y,met while drilling
+A05-003,174.5,175.5,broken,M-CL-02,Y,CL event
+A05-003,200.48,200.68,cavity,M-LC-06;M-LC-07,N,CV event
+A05-004,130.28,131.48,cavity,M-CV-01;M-LC-07,N,CV event
+A05-005,18.46,20.03,loss,M-LC-01;M-LC-02,Y,LC event
+A05-005,27.09,28.51,loss,M-LC-03,Y,LC event
+A05-005,120.25,120.69,cavity,M-LC-07,Y,CV event
+A05-005,18.46,20.03,cavity,,Y,met while drilling
+A05-005,27.09,28.51,cavity,,Y,met while drilling
+A05-006,33.5,34.5,clay,M-SP-01,Y,SP event
+A05-006,63.46,63.91,cavity,M-LC-07,Y,CV event
+A05-006,67.13,69.03,loss,M-LC-06,Y,LC event
+A05-006,67.13,69.03,cavity,,Y,met while drilling
+A05-006,114.37,116.64,cavity,,Y,met while drilling
+A05-007,256.01,256.68,cavity,M-CV-01;M-LC-06;M-LC-07,Y,CV event
+A05-008,122.35,123.12,cavity,M-LC-07,Y,CV event
+A05-008,144.46,146.55,loss,M-LC-02;M-LC-04,N,LC event
+A05-008,21.08,22.06,cavity,,Y,met while drilling
+A05-008,40.34,43.48,cavity,,Y,met while drilling
+A05-008,100.18,100.89,cavity,,Y,met while drilling
+A05-008,144.46,146.55,cavity,,Y,met while drilling
+A05-009,23.47,25.78,cavity,M-CV-02,Y,CV event
+A05-010,60.22,61.43,cavity,,Y,met while drilling
+A05-013,282.5,283.5,broken,M-CS-01;M-CL-02;M-CL-03,Y,CL event
+A05-013,288.5,289.5,broken,M-CL-01,N,CL event
+A05-013,282.0,289.0,fault,,Y,fault zone
+A05-014,15.19,15.83,cavity,,Y,met while drilling
+A05-016,94.49,97.75,cavity,M-CV-02,Y,CV event
+A05-016,104.22,104.42,cavity,M-CV-02,N,CV event
+A05-018,70.04,80.3,loss,M-LC-03,Y,LC event
+A05-018,120.29,120.69,loss,M-LC-06;M-LC-03,Y,LC event
+A05-018,129.37,129.89,cavity,M-LC-07,Y,CV event
+A05-018,238.5,239.5,broken,M-BH-01,Y,CB event
+A05-018,61.05,61.81,cavity,,Y,met while drilling
+A05-018,70.04,80.3,cavity,,Y,met while drilling
+A05-018,120.29,120.69,cavity,,Y,met while drilling
+A05-018,226.0,300.0,fault,,Y,fault zone
+A05-020,54.14,56.88,loss,M-LC-07,Y,LC event
+A05-020,74.17,75.0,loss,M-LC-07,Y,LC event
+A05-020,120.38,121.04,cavity,M-LC-07,Y,CV event
+A05-020,54.14,56.88,cavity,,Y,met while drilling
+A05-020,62.48,62.87,cavity,,Y,met while drilling
+A05-020,74.17,75.0,cavity,,Y,met while drilling
+A05-020,0.0,22.0,fault,,Y,fault zone
+A05-021,225.19,226.12,loss,M-LC-02,N,LC event
+A05-021,225.19,226.12,cavity,,Y,met while drilling
+A05-023,162.38,163.03,loss,M-LC-02,N,LC event
+A05-023,162.38,163.03,cavity,,Y,met while drilling
+A05-023,153.0,163.0,fault,,Y,fault zone
+A05-027,153.5,154.5,clay,M-SP-04,Y,SP event
+A05-028,108.01,110.06,cavity,M-LC-06,Y,CV event
+A05-028,124.3,124.91,loss,M-LC-04;M-LC-03,Y,LC event
+A05-028,100.1,102.13,cavity,,Y,met while drilling
+A05-028,113.46,113.66,cavity,,Y,met while drilling
+A05-028,124.3,124.91,cavity,,Y,met while drilling
+A05-034,92.35,94.51,cavity,M-CV-02,Y,CV event
+A05-034,177.29,178.14,cavity,,Y,met while drilling
+A05-034,95.0,128.0,fault,,Y,fault zone
+A05-035,255.05,255.78,loss,M-LC-06,Y,LC event
+A05-035,255.05,255.78,cavity,,Y,met while drilling
+A05-035,315.16,315.47,cavity,,Y,met while drilling
+A05-036,291.5,292.5,other,M-BH-03,Y,BW event
+A05-037,94.14,97.11,loss,M-LC-01;M-LC-02,Y,LC event
+A05-037,103.34,103.54,loss,M-LC-01,N,LC event
+A05-037,63.36,63.73,cavity,,Y,met while drilling
+A05-037,94.14,97.11,cavity,,Y,met while drilling
+A05-037,103.34,103.54,cavity,,Y,met while drilling
+A05-038,255.06,256.43,loss,M-LC-01,N,LC event
+A05-038,255.06,256.43,cavity,,Y,met while drilling
+A05-038,61.0,93.0,fault,,Y,fault zone
+A05-041,501.5,502.5,other,M-BH-03,N,BW event
+A05-041,36.1,36.81,cavity,,Y,met while drilling
+A05-041,170.4,173.58,cavity,,Y,met while drilling
+A05-042,48.37,48.7,loss,M-LC-06,Y,LC event
+A05-042,70.37,70.96,loss,M-LC-07,Y,LC event
+A05-042,84.35,86.83,cavity,M-CV-02;M-CV-01;M-LC-07,Y,CV event
+A05-042,48.37,48.7,cavity,,Y,met while drilling
+A05-042,70.37,70.96,cavity,,Y,met while drilling
+A05-043,68.5,69.5,broken,M-BH-01,Y,CB event
+A05-048,90.07,93.17,cavity,M-LC-06;M-CV-02,Y,CV event
+A05-048,99.09,105.92,cavity,M-LC-07,Y,CV event
+A05-048,116.24,116.44,cavity,M-CV-01;M-LC-06,Y,CV event
+A05-050,104.46,106.16,cavity,M-CV-01;M-CV-02,N,CV event
+A05-051,25.07,30.17,cavity,M-CV-02;M-LC-07,Y,CV event
+A05-051,99.22,103.18,cavity,M-LC-06,Y,CV event
+A05-051,346.5,347.5,other,M-BH-03,N,BW event
+A05-051,57.39,57.84,cavity,,Y,met while drilling
+A05-051,78.4,78.66,cavity,,Y,met while drilling
+A05-051,84.09,85.42,cavity,,Y,met while drilling
+A05-052,143.5,144.5,broken,M-CL-03,Y,CL event
+A05-052,156.5,157.5,broken,M-CL-02,Y,CL event
+A05-052,163.5,164.5,water,M-WI-01,Y,WI event
+A05-052,139.0,169.0,fault,,Y,fault zone
+A05-054,145.16,148.18,loss,M-LC-03;M-LC-02,N,LC event
+A05-054,87.39,90.6,cavity,,Y,met while drilling
+A05-054,100.27,100.54,cavity,,Y,met while drilling
+A05-054,145.16,148.18,cavity,,Y,met while drilling
+A05-055,96.5,97.5,clay,M-SP-02,Y,SP event
+A05-055,112.5,113.5,broken,M-CL-03,Y,CL event
+A05-055,297.12,297.49,cavity,,Y,met while drilling
+A05-055,83.0,115.0,fault,,Y,fault zone
+A05-056,106.5,107.5,other,M-BH-03,N,BW event
+A05-058,89.48,96.56,cavity,M-CV-01;M-LC-06,Y,CV event
+A05-058,102.13,112.4,loss,M-LC-01;M-LC-02;M-LC-03,N,LC event
+A05-058,84.48,85.81,cavity,,Y,met while drilling
+A05-058,102.13,112.4,cavity,,Y,met while drilling
+A05-058,86.0,103.0,fault,,Y,fault zone
+A05-061,192.5,193.5,other,M-BG-01,N,BG event
+A05-062,134.06,134.62,cavity,M-LC-06,Y,CV event
+A05-062,138.31,138.95,cavity,,Y,met while drilling
+A05-063,21.33,21.78,cavity,M-CV-01,Y,CV event
+A05-064,112.33,114.93,loss,M-LC-01;M-LC-04,Y,LC event
+A05-064,141.24,142.65,cavity,M-LC-07,Y,CV event
+A05-064,112.33,114.93,cavity,,Y,met while drilling
+A05-064,132.49,132.69,cavity,,Y,met while drilling
+A05-064,223.45,223.76,cavity,,Y,met while drilling
+A05-065,11.5,12.5,clay,M-SP-01;M-SP-04,Y,SP event
+A05-065,181.3,183.75,loss,M-LC-01,Y,LC event
+A05-065,62.17,64.49,cavity,,Y,met while drilling
+A05-065,115.48,116.04,cavity,,Y,met while drilling
+A05-065,181.3,183.75,cavity,,Y,met while drilling
+A05-065,0.0,45.0,fault,,Y,fault zone
+A05-066,260.02,260.8,cavity,,Y,met while drilling
+A05-066,145.0,210.0,fault,,Y,fault zone
+A05-067,62.03,63.29,loss,M-LC-04,Y,LC event
+A05-067,73.39,74.55,cavity,M-CV-01,N,CV event
+A05-067,62.03,63.29,cavity,,Y,met while drilling
+A05-068,308.5,309.5,clay,M-SP-03;M-SP-02,Y,SP event
+A05-070,94.08,95.48,loss,M-LC-07,Y,LC event
+A05-070,94.08,95.48,cavity,,Y,met while drilling
+A05-070,135.45,138.21,cavity,,Y,met while drilling
+A05-071,17.5,18.5,broken,M-BH-01,Y,CB event
+A05-071,91.08,91.5,loss,M-LC-01,Y,LC event
+A05-071,171.5,172.5,broken,M-CS-01,Y,CL event
+A05-071,91.08,91.5,cavity,,Y,met while drilling
+A05-071,158.0,182.0,fault,,Y,fault zone
+A05-072,62.29,62.73,cavity,M-LC-07,Y,CV event
+A05-072,113.08,116.18,loss,M-LC-06,Y,LC event
+A05-072,183.13,184.31,loss,M-LC-03;M-LC-04,Y,LC event
+A05-072,101.39,102.16,cavity,,Y,met while drilling
+A05-072,113.08,116.18,cavity,,Y,met while drilling
+A05-072,133.16,133.51,cavity,,Y,met while drilling
+A05-072,183.13,184.31,cavity,,Y,met while drilling
+A05-074,78.01,79.9,loss,M-LC-07,Y,LC event
+A05-074,171.27,174.24,cavity,M-LC-06,Y,CV event
+A05-074,51.18,51.71,cavity,,Y,met while drilling
+A05-074,78.01,79.9,cavity,,Y,met while drilling
+A05-075,28.5,29.5,broken,M-BH-01;M-CL-01,Y,CB event
+A05-075,35.5,36.5,broken,M-CL-01,Y,CL event
+A05-075,56.5,57.5,broken,M-CL-02,Y,CL event
+A05-075,66.5,67.5,clay,M-SP-04,Y,SP event
+A05-075,175.0,180.06,cavity,M-CV-02,Y,CV event
+A05-075,21.0,117.0,fault,,Y,fault zone
+A05-077,6.28,8.4,cavity,,Y,met while drilling
+A05-077,22.14,22.82,cavity,,Y,met while drilling
+A05-077,43.01,45.73,cavity,,Y,met while drilling
+A05-077,56.31,56.69,cavity,,Y,met while drilling
+A05-077,77.19,79.9,cavity,,Y,met while drilling
+A05-078,99.5,100.5,broken,M-CS-01,Y,CL event
+A05-078,114.5,115.5,clay,M-SP-03;M-SP-01,Y,SP event
+A05-078,296.41,296.68,cavity,,Y,met while drilling
+A05-078,68.0,167.0,fault,,Y,fault zone
+A05-080,170.3,170.56,loss,M-LC-02,Y,LC event
+A05-080,170.3,170.56,cavity,,Y,met while drilling
+A05-082,9.47,10.75,loss,M-LC-02;M-LC-06;M-LC-07,N,LC event
+A05-082,9.47,10.75,cavity,,Y,met while drilling
+A05-083,74.5,75.5,other,M-BG-01,Y,BG event
+A05-084,108.01,109.12,cavity,M-LC-07,Y,CV event
+A05-084,108.01,109.01,broken,M-CL-02;M-CL-03,Y,CL event
+A05-084,117.03,118.56,loss,M-LC-02;M-LC-01,N,LC event
+A05-084,93.19,94.52,cavity,,Y,met while drilling
+A05-084,103.16,104.55,cavity,,Y,met while drilling
+A05-084,117.03,118.56,cavity,,Y,met while drilling
+A05-084,101.0,118.0,fault,,Y,fault zone
+A05-086,209.24,209.93,loss,M-LC-06;M-LC-03,Y,LC event
+A05-086,209.24,209.93,cavity,,Y,met while drilling
+A05-086,219.41,219.73,cavity,,Y,met while drilling
+A05-086,327.23,327.93,cavity,,Y,met while drilling
+A05-087,0.0,39.0,fault,,Y,fault zone
+A05-088,96.43,96.63,cavity,M-LC-06,Y,CV event
+A05-088,142.38,143.56,loss,M-LC-02,Y,LC event
+A05-088,142.38,143.56,cavity,,Y,met while drilling
+A05-089,10.25,10.48,cavity,,Y,met while drilling
+A05-090,297.49,298.41,loss,M-LC-04,Y,LC event
+A05-090,292.06,292.82,cavity,,Y,met while drilling
+A05-090,297.49,298.41,cavity,,Y,met while drilling
+A05-091,126.41,128.45,cavity,M-CV-01,N,CV event
+A05-092,87.08,89.1,loss,M-LC-04,Y,LC event
+A05-092,87.08,89.1,cavity,,Y,met while drilling
+A05-093,218.08,224.17,loss,M-LC-03,Y,LC event
+A05-093,218.08,224.17,cavity,,Y,met while drilling
+A05-093,34.0,69.0,fault,,Y,fault zone
+A05-095,20.5,21.5,clay,M-SP-01;M-SP-03,Y,SP event
+A05-095,294.13,295.47,loss,M-LC-06,Y,LC event
+A05-095,217.11,217.89,cavity,,Y,met while drilling
+A05-095,294.13,295.47,cavity,,Y,met while drilling
+A05-097,95.0,120.0,fault,,Y,fault zone
+A05-099,73.27,75.67,cavity,M-LC-07,Y,CV event
+A05-099,106.19,108.32,loss,M-LC-03,Y,LC event
+A05-099,125.31,125.51,cavity,M-LC-06,Y,CV event
+A05-099,94.48,96.45,cavity,,Y,met while drilling
+A05-099,106.19,108.32,cavity,,Y,met while drilling
+A05-099,130.01,134.12,cavity,,Y,met while drilling
+A05-099,148.24,150.35,cavity,,Y,met while drilling
+A05-099,94.0,141.0,fault,,Y,fault zone
+A05-100,129.44,131.33,cavity,M-CV-01;M-CV-02,Y,CV event
+A05-100,149.27,150.18,cavity,M-CV-01;M-LC-06,Y,CV event
+A05-100,180.03,180.8,cavity,M-CV-02,Y,CV event
+A05-100,208.11,208.56,loss,M-LC-07,Y,LC event
+A05-100,185.2,185.54,cavity,,Y,met while drilling
+A05-100,208.11,208.56,cavity,,Y,met while drilling
+A05-100,213.35,216.1,cavity,,Y,met while drilling
+A05-100,279.0,306.0,fault,,Y,fault zone
+A05-101,115.43,116.33,cavity,M-LC-06,Y,CV event
+A05-101,121.42,121.62,loss,M-LC-01;M-LC-06,Y,LC event
+A05-101,207.5,208.5,other,M-BH-03,Y,BG event
+A05-101,121.42,121.62,cavity,,Y,met while drilling
+A05-101,131.31,132.24,cavity,,Y,met while drilling
+A05-101,277.48,280.64,cavity,,Y,met while drilling
+A05-103,242.25,243.11,cavity,,Y,met while drilling
+A05-105,120.5,121.5,broken,M-CS-01,Y,CL event
+A05-105,0.0,128.0,fault,,Y,fault zone
+A05-106,250.18,253.31,loss,M-LC-03,Y,LC event
+A05-106,250.18,253.31,cavity,,Y,met while drilling
+A05-106,241.0,282.0,fault,,Y,fault zone
+A05-107,147.48,149.67,loss,M-LC-06,Y,LC event
+A05-107,161.3,162.33,loss,M-LC-01;M-LC-02;M-LC-07,Y,LC event
+A05-107,147.48,149.67,cavity,,Y,met while drilling
+A05-107,161.3,162.33,cavity,,Y,met while drilling
+A05-107,280.26,281.32,cavity,,Y,met while drilling
+A05-109,53.29,53.55,loss,M-LC-04,Y,LC event
+A05-109,53.29,53.55,cavity,,Y,met while drilling
+A05-109,137.46,138.0,cavity,,Y,met while drilling
+A05-110,98.12,99.2,loss,M-LC-02,Y,LC event
+A05-110,127.14,128.38,loss,M-LC-03;M-LC-04,Y,LC event
+A05-110,81.19,83.14,cavity,,Y,met while drilling
+A05-110,98.12,99.2,cavity,,Y,met while drilling
+A05-110,127.14,128.38,cavity,,Y,met while drilling
+A05-111,40.5,41.5,broken,M-CL-03,Y,CL event
+A05-111,300.09,305.05,loss,M-LC-07,Y,LC event
+A05-111,300.09,305.05,cavity,,Y,met while drilling
+A05-111,11.0,64.0,fault,,Y,fault zone
+A05-113,163.15,164.04,loss,M-LC-07,Y,LC event
+A05-113,15.18,20.16,cavity,,Y,met while drilling
+A05-113,27.43,29.21,cavity,,Y,met while drilling
+A05-113,163.15,164.04,cavity,,Y,met while drilling
+A05-113,119.0,144.0,fault,,Y,fault zone
+A05-115,37.02,38.65,cavity,M-CV-02,Y,CV event
+A05-115,31.49,32.19,cavity,,Y,met while drilling
+A05-115,50.14,58.59,cavity,,Y,met while drilling
+A05-117,46.5,47.5,broken,M-CL-01,N,CL event
+A05-117,38.0,47.0,fault,,Y,fault zone
+A05-120,49.01,50.33,loss,M-LC-06,Y,LC event
+A05-120,49.01,50.33,cavity,,Y,met while drilling
+A05-120,90.28,90.79,cavity,,Y,met while drilling
+A05-121,173.5,174.5,clay,M-SP-02;M-SP-04;M-SP-01,Y,SP event
+A05-122,66.06,68.45,cavity,M-LC-07,Y,CV event
+A05-122,89.13,94.09,loss,M-LC-07,N,LC event
+A05-122,77.5,77.73,cavity,,Y,met while drilling
+A05-122,89.13,94.09,cavity,,Y,met while drilling
+A05-123,79.41,80.16,cavity,M-CV-01;M-CV-02,Y,CV event
+A05-123,214.31,215.15,cavity,M-LC-07,Y,CV event
+A05-123,130.07,130.68,cavity,,Y,met while drilling
+A05-126,33.18,33.52,loss,M-LC-01,Y,LC event
+A05-126,62.4,62.66,cavity,M-CV-02,Y,CV event
+A05-126,33.18,33.52,cavity,,Y,met while drilling
+A05-127,22.29,22.73,loss,M-LC-01,N,LC event
+A05-127,22.29,22.73,cavity,,Y,met while drilling
+A05-128,45.1,46.06,loss,M-LC-04,Y,LC event
+A05-128,20.06,22.65,cavity,,Y,met while drilling
+A05-128,45.1,46.06,cavity,,Y,met while drilling
+A05-128,71.1,71.68,cavity,,Y,met while drilling
+A05-131,158.05,159.91,loss,M-LC-02;M-LC-06,Y,LC event
+A05-131,215.16,218.4,cavity,M-LC-06,Y,CV event
+A05-131,158.05,159.91,cavity,,Y,met while drilling
+A05-131,191.48,191.78,cavity,,Y,met while drilling
+A05-132,44.5,45.5,broken,M-CL-01,N,CL event
+A05-132,38.0,45.0,fault,,Y,fault zone
+A05-134,138.37,141.53,cavity,M-LC-07;M-LC-06,N,CV event
+A05-135,55.34,56.52,cavity,M-LC-07,Y,CV event
+A05-135,140.28,140.69,cavity,,Y,met while drilling
+A05-137,7.16,9.79,loss,M-LC-02;M-LC-06,Y,LC event
+A05-137,75.44,75.66,cavity,M-CV-01;M-CV-02,Y,CV event
+A05-137,7.16,9.79,cavity,,Y,met while drilling
+A05-139,38.47,43.69,loss,M-LC-01;M-LC-03,Y,LC event
+A05-139,38.47,43.69,cavity,,Y,met while drilling
+A05-141,144.36,144.94,cavity,,Y,met while drilling
+A05-142,84.02,84.94,loss,M-LC-07,Y,LC event
+A05-142,125.05,126.17,loss,M-LC-02,Y,LC event
+A05-142,84.02,84.94,cavity,,Y,met while drilling
+A05-142,125.05,126.17,cavity,,Y,met while drilling
+A05-142,135.44,137.62,cavity,,Y,met while drilling
+A05-142,174.42,177.22,cavity,,Y,met while drilling
+A05-144,114.02,115.6,loss,M-LC-02,Y,LC event
+A05-144,128.41,133.02,loss,M-LC-04;M-LC-06;M-LC-02,N,LC event
+A05-144,98.37,98.97,cavity,,Y,met while drilling
+A05-144,114.02,115.6,cavity,,Y,met while drilling
+A05-144,128.41,133.02,cavity,,Y,met while drilling
+A05-144,0.0,129.0,fault,,Y,fault zone
+A05-145,28.39,31.63,cavity,M-CV-02,N,CV event
+A05-145,14.02,16.17,cavity,,Y,met while drilling
+A05-146,245.11,245.82,loss,M-LC-03;M-LC-07;M-LC-02,N,LC event
+A05-146,79.42,82.49,cavity,,Y,met while drilling
+A05-146,86.26,86.85,cavity,,Y,met while drilling
+A05-146,107.14,108.31,cavity,,Y,met while drilling
+A05-146,167.43,170.09,cavity,,Y,met while drilling
+A05-146,245.11,245.82,cavity,,Y,met while drilling
+A05-147,302.13,303.25,cavity,M-LC-06,Y,CV event
+A05-148,275.5,276.5,clay,M-SP-01;M-SP-03,Y,SP event
+A05-148,250.0,278.0,fault,,Y,fault zone
+A05-149,152.5,153.5,broken,M-CL-02,Y,CL event
+A05-149,167.5,168.5,clay,M-SP-03,Y,SP event
+A05-149,135.0,169.0,fault,,Y,fault zone
+A06-001,26.3,27.99,cavity,M-LC-07,Y,CV event
+A06-001,47.43,48.06,loss,M-LC-02,Y,LC event
+A06-001,82.27,82.86,loss,M-LC-07,Y,LC event
+A06-001,39.06,39.78,cavity,,Y,met while drilling
+A06-001,47.43,48.06,cavity,,Y,met while drilling
+A06-001,54.17,55.3,cavity,,Y,met while drilling
+A06-001,82.27,82.86,cavity,,Y,met while drilling
+A06-002,506.5,507.5,other,M-DV-01,Y,DV event
+A06-002,232.0,267.0,fault,,Y,fault zone
+A06-004,45.02,45.69,cavity,M-LC-06,N,CV event
+A06-006,102.5,103.5,other,M-BH-03,N,BW event
+A06-007,10.36,10.56,loss,M-LC-07,Y,LC event
+A06-007,10.36,10.56,cavity,,Y,met while drilling
+A06-007,211.0,246.0,fault,,Y,fault zone
+A06-009,252.11,252.59,cavity,,Y,met while drilling
+A06-009,278.27,280.82,cavity,,Y,met while drilling
+A06-010,171.5,172.5,clay,M-SP-03,N,SP event
+A06-010,76.0,172.0,fault,,Y,fault zone
+A06-013,303.36,304.36,cavity,,Y,met while drilling
+A06-014,91.5,92.5,broken,M-CS-01,Y,CL event
+A06-014,69.0,151.0,fault,,Y,fault zone
+A06-014,181.0,219.0,fault,,Y,fault zone
+A06-016,26.28,26.57,cavity,M-LC-07,Y,CV event
+A06-016,80.31,81.61,loss,M-LC-04,Y,LC event
+A06-016,60.12,62.05,cavity,,Y,met while drilling
+A06-016,80.31,81.61,cavity,,Y,met while drilling
+A06-016,105.24,106.48,cavity,,Y,met while drilling
+A06-016,333.0,352.0,fault,,Y,fault zone
+A06-017,67.4,67.6,loss,M-LC-07,Y,LC event
+A06-017,124.04,126.88,cavity,M-CV-02,Y,CV event
+A06-017,67.4,67.6,cavity,,Y,met while drilling
+A06-018,6.0,65.0,fault,,Y,fault zone
+A06-019,310.5,311.5,broken,M-CS-01,N,CL event
+A06-019,31.18,31.56,cavity,,Y,met while drilling
+A06-023,299.5,300.5,other,M-BH-03,Y,BW event
+A06-024,125.5,126.5,broken,M-BH-01,Y,CB event
+A06-024,126.5,127.5,clay,M-SP-04,Y,SP event
+A06-024,218.09,219.52,loss,M-LC-04,Y,LC event
+A06-024,218.09,219.52,cavity,,Y,met while drilling
+A06-024,99.0,139.0,fault,,Y,fault zone
+A06-025,12.11,12.53,cavity,M-LC-06,Y,CV event
+A06-025,41.05,42.72,cavity,M-CV-02,N,CV event
+A06-025,28.1,29.33,cavity,,Y,met while drilling
+A06-026,134.41,134.91,loss,M-LC-04;M-LC-03,Y,LC event
+A06-026,142.38,145.25,cavity,M-CV-02,Y,CV event
+A06-026,166.3,168.23,loss,M-LC-02;M-LC-03;M-LC-04,N,LC event
+A06-026,134.41,134.91,cavity,,Y,met while drilling
+A06-026,166.3,168.23,cavity,,Y,met while drilling
+A06-027,287.5,288.5,broken,M-CL-02,Y,CL event
+A06-027,268.0,360.0,fault,,Y,fault zone
+A06-028,184.35,184.99,cavity,,Y,met while drilling
+A06-029,77.12,79.56,loss,M-LC-03,Y,LC event
+A06-029,130.45,131.03,loss,M-LC-06,Y,LC event
+A06-029,77.12,79.56,cavity,,Y,met while drilling
+A06-029,112.38,114.16,cavity,,Y,met while drilling
+A06-029,130.45,131.03,cavity,,Y,met while drilling
+A06-030,66.34,70.22,cavity,M-LC-07,Y,CV event
+A06-030,98.49,100.24,cavity,M-CV-02,Y,CV event
+A06-030,468.5,469.5,other,M-BH-03,Y,BW event
+A06-030,55.32,55.52,cavity,,Y,met while drilling
+A06-032,0.0,54.0,fault,,Y,fault zone
+A06-033,167.38,170.24,cavity,M-LC-07,Y,CV event
+A06-033,183.5,184.5,broken,M-CL-03,Y,CL event
+A06-033,187.46,188.23,loss,M-LC-04;M-LC-02;M-LC-06,N,LC event
+A06-033,157.06,159.3,cavity,,Y,met while drilling
+A06-033,187.46,188.23,cavity,,Y,met while drilling
+A06-033,180.0,188.0,fault,,Y,fault zone
+A06-034,245.11,252.04,cavity,M-CV-02;M-LC-06,Y,CV event
+A06-034,126.05,133.17,cavity,,Y,met while drilling
+A06-034,16.0,56.0,fault,,Y,fault zone
+A06-036,1.19,5.83,loss,M-LC-04,Y,LC event
+A06-036,23.21,23.5,loss,M-LC-03;M-LC-01,N,LC event
+A06-036,1.19,5.83,cavity,,Y,met while drilling
+A06-036,23.21,23.5,cavity,,Y,met while drilling
+A06-038,68.19,70.35,cavity,M-CV-02;M-LC-06,Y,CV event
+A06-038,162.13,163.75,loss,M-LC-07,N,LC event
+A06-038,162.13,163.75,cavity,,Y,met while drilling
+A06-040,15.0,16.4,cavity,M-LC-07,Y,CV event
+A06-040,71.12,74.1,cavity,M-LC-06,Y,CV event
+A06-040,91.1,94.71,loss,M-LC-02,N,LC event
+A06-040,46.05,48.26,cavity,,Y,met while drilling
+A06-040,60.46,63.03,cavity,,Y,met while drilling
+A06-040,91.1,94.71,cavity,,Y,met while drilling
+A06-042,78.24,78.52,cavity,,Y,met while drilling
+A06-042,90.28,91.61,cavity,,Y,met while drilling
+A06-042,120.04,121.38,cavity,,Y,met while drilling
+A06-042,156.16,157.42,cavity,,Y,met while drilling
+A06-042,50.0,84.0,fault,,Y,fault zone
+A06-043,10.01,12.43,loss,M-LC-03,Y,LC event
+A06-043,16.33,16.53,cavity,M-CV-01,Y,CV event
+A06-043,55.33,55.61,cavity,M-LC-07,Y,CV event
+A06-043,97.37,97.71,cavity,M-CV-02,Y,CV event
+A06-043,10.01,12.43,cavity,,Y,met while drilling
+A06-045,116.27,122.23,cavity,M-CV-01;M-LC-06,N,CV event
+A06-045,111.12,111.63,cavity,,Y,met while drilling
+A06-046,0.4,0.6,loss,M-LC-02,Y,LC event
+A06-046,82.04,84.45,cavity,M-CV-02,Y,CV event
+A06-046,95.39,95.59,loss,M-LC-01;M-LC-03,Y,LC event
+A06-046,0.4,0.6,cavity,,Y,met while drilling
+A06-046,4.29,4.49,cavity,,Y,met while drilling
+A06-046,9.3,11.75,cavity,,Y,met while drilling
+A06-046,19.27,19.6,cavity,,Y,met while drilling
+A06-046,38.02,38.78,cavity,,Y,met while drilling
+A06-046,95.39,95.59,cavity,,Y,met while drilling
+A06-048,59.45,61.82,loss,M-LC-04;M-LC-06,Y,LC event
+A06-048,20.32,20.89,cavity,,Y,met while drilling
+A06-048,59.45,61.82,cavity,,Y,met while drilling
+A06-048,122.39,122.59,cavity,,Y,met while drilling
+A06-048,149.35,154.62,cavity,,Y,met while drilling
+A06-048,164.48,164.68,cavity,,Y,met while drilling
+A06-048,173.34,174.82,cavity,,Y,met while drilling
+A06-048,202.22,202.73,cavity,,Y,met while drilling
+A06-049,259.5,260.5,broken,M-CL-01,Y,CL event
+A06-049,266.5,267.5,broken,M-CL-01,Y,CL event
+A06-049,290.5,291.5,broken,M-CS-01;M-CL-02,Y,CL event
+A06-049,303.5,304.5,broken,M-BH-01,Y,CB event
+A06-049,495.5,496.5,clay,M-SP-01,Y,SP event
+A06-049,258.0,306.0,fault,,Y,fault zone
+A06-050,288.09,289.04,cavity,M-LC-06,Y,CV event
+A06-050,422.5,423.5,clay,M-SP-03;M-SP-01,N,SP event
+A06-050,415.0,423.0,fault,,Y,fault zone
+A06-052,149.01,150.51,loss,M-LC-02,Y,LC event
+A06-052,381.5,382.5,clay,M-SP-02,N,SP event
+A06-052,106.06,108.97,cavity,,Y,met while drilling
+A06-052,115.34,115.84,cavity,,Y,met while drilling
+A06-052,122.03,122.65,cavity,,Y,met while drilling
+A06-052,149.01,150.51,cavity,,Y,met while drilling
+A06-052,163.01,164.7,cavity,,Y,met while drilling
+A06-052,381.0,382.0,fault,,Y,fault zone
+A06-053,2.45,2.82,loss,M-LC-06;M-LC-04,Y,LC event
+A06-053,9.04,10.19,loss,M-LC-07,Y,LC event
+A06-053,16.19,17.64,cavity,M-LC-06;M-CV-02,Y,CV event
+A06-053,68.01,68.4,loss,M-LC-07,Y,LC event
+A06-053,2.45,2.82,cavity,,Y,met while drilling
+A06-053,9.04,10.19,cavity,,Y,met while drilling
+A06-053,24.06,24.88,cavity,,Y,met while drilling
+A06-053,57.26,59.63,cavity,,Y,met while drilling
+A06-053,68.01,68.4,cavity,,Y,met while drilling
+A06-053,206.0,265.0,fault,,Y,fault zone
+A06-054,231.11,231.5,cavity,M-LC-06,Y,CV event
+A06-054,272.44,277.57,cavity,,Y,met while drilling
+A06-055,100.0,153.0,fault,,Y,fault zone
+A06-056,4.25,5.11,loss,M-LC-02,Y,LC event
+A06-056,170.5,171.5,clay,M-SP-02,Y,SP event
+A06-056,360.5,361.5,broken,M-CS-01,N,CL event
+A06-056,4.25,5.11,cavity,,Y,met while drilling
+A06-056,75.01,81.42,cavity,,Y,met while drilling
+A06-056,354.0,361.0,fault,,Y,fault zone
+A06-058,157.22,160.02,loss,M-LC-07;M-LC-01;M-LC-04,Y,LC event
+A06-058,412.5,413.5,other,M-RF-01,Y,RF event
+A06-058,157.22,160.02,cavity,,Y,met while drilling
+A06-058,307.36,307.56,cavity,,Y,met while drilling
+A06-061,217.5,218.5,clay,M-SP-03,Y,SP event
+A06-062,61.27,61.76,loss,M-LC-01,N,LC event
+A06-062,49.33,50.5,cavity,,Y,met while drilling
+A06-062,61.27,61.76,cavity,,Y,met while drilling
+A06-063,503.5,504.5,broken,M-CL-01,N,CB event
+A06-064,9.5,10.5,broken,M-BH-01;M-CL-01,Y,CB event
+A06-064,232.5,233.5,clay,M-SP-04,Y,SP event
+A06-064,243.5,244.5,broken,M-CL-01,Y,CB event
+A06-064,259.5,260.5,broken,M-CS-01,Y,CL event
+A06-064,266.5,267.5,broken,M-BH-01,Y,CB event
+A06-064,270.5,271.5,clay,M-SP-01,Y,SP event
+A06-064,0.0,33.0,fault,,Y,fault zone
+A06-064,139.0,293.0,fault,,Y,fault zone
+A06-065,102.5,103.5,other,M-DV-01,Y,DV event
+A06-065,244.5,245.5,broken,M-CL-02,Y,CL event
+A06-065,264.5,265.5,clay,M-SP-01;M-SP-04;M-SP-03,Y,SP event
+A06-065,240.0,288.0,fault,,Y,fault zone
+A06-066,149.0,192.0,fault,,Y,fault zone
+A06-067,17.25,17.52,loss,M-LC-04,Y,LC event
+A06-067,31.28,34.92,loss,M-LC-06;M-LC-04,Y,LC event
+A06-067,281.5,282.5,broken,M-BH-01,Y,CB event
+A06-067,289.5,290.5,clay,M-SP-03,Y,SP event
+A06-067,10.33,11.19,cavity,,Y,met while drilling
+A06-067,17.25,17.52,cavity,,Y,met while drilling
+A06-067,31.28,34.92,cavity,,Y,met while drilling
+A06-067,40.19,40.93,cavity,,Y,met while drilling
+A06-067,51.38,52.58,cavity,,Y,met while drilling
+A06-067,270.0,308.0,fault,,Y,fault zone
+A06-068,169.04,171.58,cavity,,Y,met while drilling
+A06-068,187.33,188.76,cavity,,Y,met while drilling
+A06-070,24.29,25.12,cavity,M-LC-07,Y,CV event
+A06-070,218.5,219.5,broken,M-CL-03,Y,CL event
+A06-070,190.0,248.0,fault,,Y,fault zone
+A06-071,0.0,135.0,fault,,Y,fault zone
+A06-075,243.5,244.5,clay,M-SP-01;M-SP-04,Y,SP event
+A06-075,215.0,265.0,fault,,Y,fault zone
+A06-076,407.0,436.0,fault,,Y,fault zone
+A06-078,248.0,288.0,fault,,Y,fault zone
+A06-079,146.5,147.5,broken,M-BH-01,Y,CB event
+A06-079,128.0,164.0,fault,,Y,fault zone
+A06-080,86.2,88.17,loss,M-LC-06,Y,LC event
+A06-080,65.32,67.83,cavity,,Y,met while drilling
+A06-080,86.2,88.17,cavity,,Y,met while drilling
+A06-080,101.42,102.15,cavity,,Y,met while drilling
+A06-080,117.15,117.58,cavity,,Y,met while drilling
+A06-081,329.46,331.27,cavity,,Y,met while drilling
+A06-081,340.17,341.26,cavity,,Y,met while drilling
+A06-082,352.5,353.5,broken,M-CS-01,Y,CL event
+A06-082,279.36,279.58,cavity,,Y,met while drilling
+A06-082,128.0,162.0,fault,,Y,fault zone
+A06-082,258.0,363.0,fault,,Y,fault zone
+A06-083,162.4,163.29,loss,M-LC-04,Y,LC event
+A06-083,162.4,163.29,cavity,,Y,met while drilling
+A06-085,10.29,12.78,loss,M-LC-01;M-LC-02,N,LC event
+A06-085,10.29,12.78,cavity,,Y,met while drilling
+A06-086,297.5,298.5,broken,M-CS-01,Y,CL event
+A06-086,315.43,317.11,cavity,M-CV-02;M-CV-01,N,CV event
+A06-086,290.0,316.0,fault,,Y,fault zone
+A06-087,151.5,152.5,clay,M-SP-03,Y,SP event
+A06-087,431.5,432.5,broken,M-CL-01,Y,CB event
+A06-087,24.43,25.67,cavity,,Y,met while drilling
+A06-087,34.2,35.14,cavity,,Y,met while drilling
+A06-087,136.0,170.0,fault,,Y,fault zone
+A06-087,419.0,456.0,fault,,Y,fault zone
+A06-088,15.32,18.24,cavity,M-LC-07,Y,CV event
+A06-089,32.15,33.3,cavity,M-LC-07,Y,CV event
+A06-089,64.42,65.96,cavity,M-CV-01;M-LC-06,N,CV event
+A06-090,1.03,2.39,cavity,M-LC-06,Y,CV event
+A06-090,87.34,87.7,loss,M-LC-06;M-LC-02,Y,LC event
+A06-090,27.25,30.21,cavity,,Y,met while drilling
+A06-090,34.26,34.72,cavity,,Y,met while drilling
+A06-090,87.34,87.7,cavity,,Y,met while drilling
+A06-093,32.5,33.5,broken,M-CL-03,Y,CL event
+A06-093,52.5,53.5,broken,M-CL-02;M-CL-01,Y,CL event
+A06-093,75.17,77.2,cavity,M-CV-01,N,CV event
+A06-093,55.34,56.28,cavity,,Y,met while drilling
+A06-093,0.0,76.0,fault,,Y,fault zone
+A06-094,274.0,320.0,fault,,Y,fault zone
+A06-096,142.3,143.24,cavity,M-CV-02,Y,CV event
+A06-096,28.11,28.84,cavity,,Y,met while drilling
+A06-100,110.5,111.5,broken,M-CL-01,Y,CL event
+A06-100,116.5,117.5,clay,M-SP-01;M-SP-04,Y,SP event
+A06-100,162.5,163.5,clay,M-SP-03;M-SP-04,Y,SP event
+A06-100,168.5,169.5,clay,M-SP-02,Y,SP event
+A06-100,173.5,174.5,broken,M-CS-01;M-CL-02,Y,CL event
+A06-100,221.5,222.5,water,M-WI-01,N,WI event
+A06-100,0.0,222.0,fault,,Y,fault zone
+A06-101,135.24,136.81,cavity,M-CV-01,N,CV event
+A06-101,86.14,86.72,cavity,,Y,met while drilling
+A06-102,103.5,104.5,broken,M-CL-03,Y,CL event
+A06-102,38.0,118.0,fault,,Y,fault zone
+A06-103,186.27,189.43,loss,M-LC-04;M-LC-03;M-LC-06,N,LC event
+A06-103,126.48,126.68,cavity,,Y,met while drilling
+A06-103,186.27,189.43,cavity,,Y,met while drilling
+A06-105,226.2,228.2,cavity,,Y,met while drilling
+A06-106,18.07,19.6,loss,M-LC-04,Y,LC event
+A06-106,152.29,154.18,loss,M-LC-03,Y,LC event
+A06-106,18.07,19.6,cavity,,Y,met while drilling
+A06-106,38.13,39.48,cavity,,Y,met while drilling
+A06-106,152.29,154.18,cavity,,Y,met while drilling
+A06-106,185.09,186.06,cavity,,Y,met while drilling
+A06-107,38.2,41.51,loss,M-LC-07,Y,LC event
+A06-107,47.2,47.54,loss,M-LC-07,Y,LC event
+A06-107,54.31,55.16,loss,M-LC-06,Y,LC event
+A06-107,59.33,63.42,loss,M-LC-06;M-LC-04,N,LC event
+A06-107,38.2,41.51,cavity,,Y,met while drilling
+A06-107,47.2,47.54,cavity,,Y,met while drilling
+A06-107,54.31,55.16,cavity,,Y,met while drilling
+A06-107,59.33,63.42,cavity,,Y,met while drilling
+A06-111,357.5,358.5,water,M-WI-01,N,WI event
+A06-111,323.0,358.0,fault,,Y,fault zone
+A06-113,199.33,199.63,cavity,M-LC-07,N,CV event
+A06-116,61.28,64.85,loss,M-LC-04;M-LC-03,Y,LC event
+A06-116,61.28,64.85,cavity,,Y,met while drilling
+A06-116,169.33,173.61,cavity,,Y,met while drilling
+A06-117,448.5,449.5,other,M-DV-01,Y,DV event
+A06-117,551.5,552.5,broken,M-CL-01;M-BH-01,Y,CB event
+A06-117,526.0,558.0,fault,,Y,fault zone
+A06-118,162.49,163.85,cavity,,Y,met while drilling
+A06-118,216.47,216.67,cavity,,Y,met while drilling
+A06-118,425.0,476.0,fault,,Y,fault zone
+A06-122,63.0,82.0,fault,,Y,fault zone
+A06-123,49.3,50.66,cavity,M-CV-01,N,CV event
+A06-125,98.5,99.5,water,M-WI-01,Y,WI event
+A06-125,105.5,106.5,clay,M-SP-04,Y,SP event
+A06-125,114.5,115.5,broken,M-CS-01,Y,CL event
+A06-125,97.0,135.0,fault,,Y,fault zone
+A06-126,646.0,650.0,fault,,Y,fault zone
+A06-130,93.08,97.49,loss,M-LC-04;M-LC-06,Y,LC event
+A06-130,211.05,215.47,loss,M-LC-04,Y,LC event
+A06-130,93.08,97.49,cavity,,Y,met while drilling
+A06-130,211.05,215.47,cavity,,Y,met while drilling
+A06-130,354.0,381.0,fault,,Y,fault zone
+A06-131,55.39,57.47,loss,M-LC-01;M-LC-02,N,LC event
+A06-131,40.48,41.04,cavity,,Y,met while drilling
+A06-131,55.39,57.47,cavity,,Y,met while drilling
+A06-132,8.26,8.54,loss,M-LC-07,Y,LC event
+A06-132,59.29,59.82,loss,M-LC-01;M-LC-03,Y,LC event
+A06-132,113.08,115.58,cavity,M-CV-01,Y,CV event
+A06-132,417.5,418.5,broken,M-CL-02;M-CS-01,Y,CL event
+A06-132,8.26,8.54,cavity,,Y,met while drilling
+A06-132,59.29,59.82,cavity,,Y,met while drilling
+A06-132,119.44,120.33,cavity,,Y,met while drilling
+A06-132,111.0,160.0,fault,,Y,fault zone
+A06-132,408.0,437.0,fault,,Y,fault zone
+A06-134,97.14,97.46,loss,M-LC-02,Y,LC event
+A06-134,120.39,121.82,loss,M-LC-07,Y,LC event
+A06-134,154.15,155.28,loss,M-LC-03,Y,LC event
+A06-134,162.0,164.51,loss,M-LC-04;M-LC-01;M-LC-07,Y,LC event
+A06-134,67.4,67.86,cavity,,Y,met while drilling
+A06-134,81.25,84.81,cavity,,Y,met while drilling
+A06-134,97.14,97.46,cavity,,Y,met while drilling
+A06-134,120.39,121.82,cavity,,Y,met while drilling
+A06-134,154.15,155.28,cavity,,Y,met while drilling
+A06-134,162.0,164.51,cavity,,Y,met while drilling
+A06-136,144.5,145.5,clay,M-SP-03;M-SP-02,Y,SP event
+A06-136,167.5,168.5,broken,M-BH-01,Y,CB event
+A06-136,178.5,179.5,broken,M-CL-02,N,CL event
+A06-136,144.0,179.0,fault,,Y,fault zone
+A06-137,224.5,225.5,clay,M-SP-03,Y,SP event
+A06-137,308.5,309.5,broken,M-CS-01,Y,CL event
+A06-137,321.5,322.5,broken,M-CS-01,Y,CL event
+A06-137,324.5,325.5,broken,M-BH-01;M-CL-01,Y,CB event
+A06-137,341.5,342.5,broken,M-CS-01,Y,CL event
+A06-137,195.0,262.0,fault,,Y,fault zone
+A06-137,307.0,388.0,fault,,Y,fault zone
+A06-139,11.46,12.18,cavity,M-LC-07,Y,CV event
+A06-139,63.48,64.64,loss,M-LC-02,Y,LC event
+A06-139,75.09,75.48,cavity,M-CV-02,Y,CV event
+A06-139,40.09,49.73,cavity,,Y,met while drilling
+A06-139,63.48,64.64,cavity,,Y,met while drilling
+A06-139,69.3,69.5,cavity,,Y,met while drilling
+A06-141,197.2,198.83,cavity,M-CV-01,N,CV event
+A06-142,168.5,169.5,broken,M-CL-01;M-CL-03,Y,CL event
+A06-142,193.5,194.5,broken,M-CL-02;M-CL-01,Y,CL event
+A06-142,273.5,274.5,broken,M-CS-01;M-CL-03,Y,CL event
+A06-142,317.5,318.5,water,M-WI-01,Y,WI event
+A06-142,369.5,370.5,clay,M-SP-02;M-SP-04,Y,SP event
+A06-142,462.5,463.5,clay,M-SP-03;M-SP-04,N,SP event
+A06-142,162.0,463.0,fault,,Y,fault zone
+A06-143,479.5,480.5,other,M-BG-01,Y,BG event
+A06-143,552.5,553.5,clay,M-SP-01;M-SP-02;M-SP-03,N,SP event
+A06-144,145.5,146.5,broken,M-CL-01,N,CB event
+A06-144,94.0,146.0,fault,,Y,fault zone
+A06-145,32.5,33.5,clay,M-SP-04,Y,SP event
+A06-145,34.5,35.5,clay,M-SP-03,Y,SP event
+A06-145,113.5,114.5,broken,M-BH-01,Y,CB event
+A06-145,1.0,126.0,fault,,Y,fault zone
+A06-146,153.5,154.5,broken,M-CL-03;M-CL-02,Y,CL event
+A06-146,180.5,181.5,broken,M-CL-01;M-BH-01,N,CB event
+A06-146,137.0,181.0,fault,,Y,fault zone
+A06-149,118.44,120.76,cavity,M-LC-06;M-CV-01;M-CV-02,Y,CV event
+A06-149,327.5,328.5,broken,M-CL-01;M-CL-02,Y,CL event
+A06-149,172.17,173.06,cavity,,Y,met while drilling
+A06-149,191.2,195.77,cavity,,Y,met while drilling
+A06-149,261.31,262.22,cavity,,Y,met while drilling
+A06-150,215.09,217.33,cavity,M-LC-07,Y,CV event
+A07-001,76.28,77.82,cavity,M-CV-01;M-LC-07,Y,CV event
+A07-001,84.26,85.23,loss,M-LC-07,Y,LC event
+A07-001,177.4,178.36,cavity,M-CV-02,N,CV event
+A07-001,84.26,85.23,cavity,,Y,met while drilling
+A07-002,93.5,94.5,clay,M-SP-02,Y,SP event
+A07-002,129.5,130.5,broken,M-CL-03;M-CL-02,Y,CL event
+A07-002,154.5,155.5,broken,M-BH-01;M-CL-01,N,CB event
+A07-002,77.0,155.0,fault,,Y,fault zone
+A07-003,53.35,55.07,loss,M-LC-01,N,LC event
+A07-003,53.35,55.07,cavity,,Y,met while drilling
+A07-004,94.36,98.12,cavity,M-CV-02,Y,CV event
+A07-005,121.43,122.27,loss,M-LC-03,Y,LC event
+A07-005,100.31,110.11,cavity,,Y,met while drilling
+A07-005,121.43,122.27,cavity,,Y,met while drilling
+A07-006,157.07,157.83,cavity,,Y,met while drilling
+A07-007,67.19,70.58,cavity,M-LC-07,Y,CV event
+A07-007,17.46,17.66,cavity,,Y,met while drilling
+A07-007,121.37,122.04,cavity,,Y,met while drilling
+A07-008,68.17,69.93,loss,M-LC-01;M-LC-04,N,LC event
+A07-008,68.17,69.93,cavity,,Y,met while drilling
+A07-008,7.0,50.0,fault,,Y,fault zone
+A07-009,19.12,23.48,loss,M-LC-02,N,LC event
+A07-009,19.12,23.48,cavity,,Y,met while drilling
+A07-011,258.5,259.5,broken,M-CL-01,Y,CL event
+A07-011,273.5,274.5,broken,M-CL-01;M-CL-03,Y,CL event
+A07-011,278.5,279.5,broken,M-CS-01,Y,CL event
+A07-011,417.5,418.5,clay,M-SP-03,Y,SP event
+A07-011,224.0,280.0,fault,,Y,fault zone
+A07-012,127.5,128.5,clay,M-SP-03,Y,SP event
+A07-012,119.0,164.0,fault,,Y,fault zone
+A07-013,174.5,175.5,other,M-DV-01,N,DV event
+A07-013,0.0,26.0,fault,,Y,fault zone
+A07-015,118.08,120.79,loss,M-LC-02,N,LC event
+A07-015,84.07,87.7,cavity,,Y,met while drilling
+A07-015,118.08,120.79,cavity,,Y,met while drilling
+A07-015,79.0,119.0,fault,,Y,fault zone
+A07-016,105.46,108.33,loss,M-LC-07,Y,LC event
+A07-016,134.28,141.95,loss,M-LC-03,Y,LC event
+A07-016,105.46,108.33,cavity,,Y,met while drilling
+A07-016,134.28,141.95,cavity,,Y,met while drilling
+A07-017,150.5,151.5,clay,M-SP-04;M-SP-02,N,SP event
+A07-017,142.0,151.0,fault,,Y,fault zone
+A07-020,131.12,131.55,cavity,,Y,met while drilling
+A07-021,14.41,16.69,cavity,,Y,met while drilling
+A07-021,30.31,30.51,cavity,,Y,met while drilling
+A07-021,43.44,43.64,cavity,,Y,met while drilling
+A07-021,78.41,78.61,cavity,,Y,met while drilling
+A07-021,97.48,98.32,cavity,,Y,met while drilling
+A07-023,264.5,265.5,clay,M-SP-04;M-SP-02;M-SP-03,Y,SP event
+A07-023,365.5,366.5,broken,M-CL-02,Y,CL event
+A07-023,399.5,400.5,clay,M-SP-02;M-SP-04;M-SP-01,N,SP event
+A07-023,282.25,282.6,cavity,,Y,met while drilling
+A07-023,292.33,292.97,cavity,,Y,met while drilling
+A07-023,252.0,400.0,fault,,Y,fault zone
+A07-025,20.49,21.34,loss,M-LC-01,N,LC event
+A07-025,9.2,9.45,cavity,,Y,met while drilling
+A07-025,20.49,21.34,cavity,,Y,met while drilling
+A07-025,0.0,21.0,fault,,Y,fault zone
+A07-026,36.46,36.66,cavity,M-LC-06,N,CV event
+A07-028,143.5,144.5,broken,M-CS-01,Y,CL event
+A07-028,147.5,148.5,broken,M-BH-01;M-CL-01,N,CB event
+A07-028,128.0,148.0,fault,,Y,fault zone
+A07-031,63.42,63.62,loss,M-LC-07,Y,LC event
+A07-031,63.42,63.62,cavity,,Y,met while drilling
+A07-034,21.5,22.5,clay,M-SP-02;M-SP-03,Y,SP event
+A07-034,171.5,172.5,broken,M-CL-03,Y,CL event
+A07-034,174.5,175.5,broken,M-CL-02,Y,CL event
+A07-034,219.5,220.5,clay,M-SP-03;M-SP-04,Y,SP event
+A07-034,0.0,34.0,fault,,Y,fault zone
+A07-034,156.0,250.0,fault,,Y,fault zone
+A07-035,259.5,260.5,broken,M-CL-02,Y,CL event
+A07-035,282.5,283.5,broken,M-CL-01,N,CL event
+A07-035,238.0,283.0,fault,,Y,fault zone
+A07-037,22.5,23.5,broken,M-CL-01;M-CL-03,Y,CL event
+A07-038,197.42,198.09,cavity,M-CV-02,N,CV event
+A07-039,78.45,78.65,loss,M-LC-07;M-LC-03,Y,LC event
+A07-039,91.16,92.35,cavity,M-CV-01,Y,CV event
+A07-039,179.5,180.5,broken,M-CS-01,Y,CL event
+A07-039,78.45,78.65,cavity,,Y,met while drilling
+A07-041,48.5,49.5,broken,M-CS-01,Y,CL event
+A07-041,60.5,61.5,clay,M-SP-03,Y,SP event
+A07-041,305.5,306.5,broken,M-CS-01,Y,CL event
+A07-041,28.0,71.0,fault,,Y,fault zone
+A07-041,304.0,344.0,fault,,Y,fault zone
+A07-042,81.3,84.56,cavity,M-LC-07,Y,CV event
+A07-042,41.13,41.48,cavity,,Y,met while drilling
+A07-044,27.48,27.68,loss,M-LC-04;M-LC-06;M-LC-07,Y,LC event
+A07-044,38.5,39.5,broken,M-CL-01;M-CL-02,N,CL event
+A07-044,27.48,27.68,cavity,,Y,met while drilling
+A07-044,0.0,39.0,fault,,Y,fault zone
+A07-045,502.5,503.5,broken,M-CL-02,Y,CL event
+A07-045,629.5,630.5,broken,M-CL-03;M-CL-02;M-CS-01,Y,CL event
+A07-045,639.5,640.5,clay,M-SP-04,Y,SP event
+A07-045,484.0,521.0,fault,,Y,fault zone
+A07-045,629.0,650.0,fault,,Y,fault zone
+A07-046,130.5,131.5,broken,M-CL-01,Y,CL event
+A07-048,137.38,137.63,loss,M-LC-06,Y,LC event
+A07-048,147.44,148.22,cavity,M-CV-02;M-LC-06,Y,CV event
+A07-048,137.38,137.63,cavity,,Y,met while drilling
+A07-050,28.31,28.71,cavity,,Y,met while drilling
+A07-050,44.15,46.22,cavity,,Y,met while drilling
+A07-050,419.0,462.0,fault,,Y,fault zone
+A07-053,280.1,281.02,cavity,,Y,met while drilling
+A07-054,41.5,42.5,broken,M-BH-01;M-CL-01,Y,CB event
+A07-054,183.0,229.0,fault,,Y,fault zone
+A07-055,18.5,19.5,clay,M-SP-02;M-SP-03,Y,SP event
+A07-055,19.5,20.5,clay,M-SP-04,Y,SP event
+A07-055,123.07,123.72,cavity,M-CV-02,N,CV event
+A07-055,19.5,20.77,cavity,,Y,met while drilling
+A07-055,0.0,58.0,fault,,Y,fault zone
+A07-056,39.5,40.5,clay,M-SP-03,Y,SP event
+A07-056,48.5,49.5,broken,M-CL-03,Y,CL event
+A07-056,60.5,61.5,broken,M-CL-02,Y,CL event
+A07-056,82.5,83.5,clay,M-SP-04,Y,SP event
+A07-056,33.0,80.0,fault,,Y,fault zone
+A07-057,18.5,19.5,broken,M-BH-01;M-CL-01,N,CB event
+A07-057,14.0,19.0,fault,,Y,fault zone
+A07-059,62.5,63.5,broken,M-BH-01,Y,CB event
+A07-059,50.0,109.0,fault,,Y,fault zone
+A07-060,370.5,371.5,broken,M-CL-03;M-CL-01,N,CL event
+A07-060,125.0,162.0,fault,,Y,fault zone
+A07-060,351.0,371.0,fault,,Y,fault zone
+A07-061,51.05,52.32,loss,M-LC-04,Y,LC event
+A07-061,68.5,69.5,clay,M-SP-04,N,SP event
+A07-061,16.32,17.32,cavity,,Y,met while drilling
+A07-061,46.23,46.65,cavity,,Y,met while drilling
+A07-061,51.05,52.32,cavity,,Y,met while drilling
+A07-061,28.0,69.0,fault,,Y,fault zone
+A07-062,18.37,20.41,loss,M-LC-01;M-LC-02,Y,LC event
+A07-062,18.37,20.41,cavity,,Y,met while drilling
+A07-065,76.5,77.5,broken,M-CL-01,Y,CB event
+A07-065,98.5,99.5,broken,M-CL-03,Y,CL event
+A07-065,325.5,326.5,broken,M-CS-01,Y,CL event
+A07-065,62.0,103.0,fault,,Y,fault zone
+A07-068,73.4,76.58,cavity,,Y,met while drilling
+A07-068,107.47,108.73,cavity,,Y,met while drilling
+A07-068,50.0,99.0,fault,,Y,fault zone
+A07-071,216.12,216.72,loss,M-LC-06,Y,LC event
+A07-071,216.12,216.72,cavity,,Y,met while drilling
+A07-073,282.29,283.18,cavity,,Y,met while drilling
+A07-076,64.5,65.5,broken,M-CL-02,N,CL event
+A07-076,51.0,65.0,fault,,Y,fault zone
+A07-078,302.5,303.5,broken,M-CL-01;M-BH-01,N,CB event
+A07-078,292.0,303.0,fault,,Y,fault zone
+A07-079,33.5,34.5,broken,M-CL-03,Y,CL event
+A07-079,40.5,41.5,broken,M-CL-01;M-CL-02,Y,CL event
+A07-079,0.0,75.0,fault,,Y,fault zone
+A07-081,199.24,199.89,loss,M-LC-07,Y,LC event
+A07-081,445.5,446.5,other,M-DV-01,Y,DV event
+A07-081,199.24,199.89,cavity,,Y,met while drilling
+A07-081,442.0,472.0,fault,,Y,fault zone
+A07-081,561.0,595.0,fault,,Y,fault zone
+A07-082,78.29,79.94,cavity,M-CV-02,Y,CV event
+A07-082,183.34,184.69,loss,M-LC-01,Y,LC event
+A07-082,54.09,56.87,cavity,,Y,met while drilling
+A07-082,62.42,65.01,cavity,,Y,met while drilling
+A07-082,68.2,68.47,cavity,,Y,met while drilling
+A07-082,183.34,184.69,cavity,,Y,met while drilling
+A07-083,200.0,231.0,fault,,Y,fault zone
+A07-084,4.5,5.5,broken,M-BH-01,Y,CB event
+A07-084,29.5,30.5,other,M-DV-01,N,DV event
+A07-084,0.0,30.0,fault,,Y,fault zone
+A07-085,93.16,94.1,loss,M-LC-01,Y,LC event
+A07-085,74.13,74.67,cavity,,Y,met while drilling
+A07-085,93.16,94.1,cavity,,Y,met while drilling
+A07-086,53.5,54.5,clay,M-SP-04,Y,SP event
+A07-086,67.5,68.5,broken,M-BH-01,Y,CB event
+A07-086,18.0,79.0,fault,,Y,fault zone
+A07-087,194.4,194.96,cavity,M-CV-02,Y,CV event
+A07-088,78.42,80.75,cavity,M-LC-07,Y,CV event
+A07-088,266.5,267.5,broken,M-CL-01,Y,CB event
+A07-088,268.5,269.5,broken,M-CL-02;M-CS-01,Y,CL event
+A07-088,280.5,281.5,broken,M-CL-02,Y,CL event
+A07-088,350.5,351.5,other,M-DV-01,N,DV event
+A07-088,112.4,112.79,cavity,,Y,met while drilling
+A07-088,261.0,295.0,fault,,Y,fault zone
+A07-089,128.5,129.5,clay,M-SP-03,N,SP event
+A07-090,0.45,1.83,loss,M-LC-03,Y,LC event
+A07-090,16.29,16.78,cavity,M-LC-06,Y,CV event
+A07-090,36.17,36.76,cavity,M-LC-06,N,CV event
+A07-090,0.45,1.83,cavity,,Y,met while drilling
+A07-090,0.0,37.0,fault,,Y,fault zone
+A07-091,154.12,158.24,loss,M-LC-04,N,LC event
+A07-091,35.12,35.69,cavity,,Y,met while drilling
+A07-091,154.12,158.24,cavity,,Y,met while drilling
+A07-092,26.5,27.5,broken,M-CS-01,Y,CL event
+A07-092,423.5,424.5,clay,M-SP-04;M-SP-01,Y,SP event
+A07-092,382.0,430.0,fault,,Y,fault zone
+A07-096,86.5,87.5,clay,M-SP-02,N,SP event
+A07-096,36.0,87.0,fault,,Y,fault zone
+A07-097,154.5,155.5,other,M-DV-01,Y,DV event
+A07-097,230.36,233.33,cavity,,Y,met while drilling
+A07-100,123.5,124.5,clay,M-SP-02,N,SP event
+A07-101,456.5,457.5,clay,M-SP-04,Y,SP event
+A07-101,437.0,484.0,fault,,Y,fault zone
+A07-104,182.0,218.0,fault,,Y,fault zone
+A07-105,30.45,32.65,loss,M-LC-04;M-LC-06,Y,LC event
+A07-105,37.07,39.13,loss,M-LC-02,Y,LC event
+A07-105,95.19,95.81,loss,M-LC-03;M-LC-06,Y,LC event
+A07-105,137.5,138.5,broken,M-BH-01;M-CL-01,N,CB event
+A07-105,22.2,23.29,cavity,,Y,met while drilling
+A07-105,30.45,32.65,cavity,,Y,met while drilling
+A07-105,37.07,39.13,cavity,,Y,met while drilling
+A07-105,95.19,95.81,cavity,,Y,met while drilling
+A07-105,120.0,138.0,fault,,Y,fault zone
+A07-106,17.5,18.5,broken,M-CL-03,Y,CL event
+A07-106,239.5,240.5,water,M-WI-01,Y,WI event
+A07-106,241.41,242.6,cavity,M-CV-02;M-LC-07,Y,CV event
+A07-106,260.5,261.5,broken,M-CL-02,Y,CL event
+A07-106,221.0,350.0,fault,,Y,fault zone
+A07-107,114.5,115.5,water,M-WI-01,Y,WI event
+A07-107,115.5,116.5,broken,M-CS-01,Y,CL event
+A07-107,120.5,121.5,broken,M-CL-01,Y,CB event
+A07-107,121.5,122.5,broken,M-CL-03,Y,CL event
+A07-107,190.5,191.5,broken,M-CL-02,Y,CL event
+A07-107,210.5,211.5,broken,M-CL-01;M-CS-01,Y,CL event
+A07-107,284.1,285.28,loss,M-LC-01,N,LC event
+A07-107,284.1,285.28,cavity,,Y,met while drilling
+A07-107,114.0,216.0,fault,,Y,fault zone
+A07-108,213.5,214.5,broken,M-BH-01,Y,CB event
+A07-109,490.5,491.5,broken,M-CS-01,Y,CL event
+A07-109,91.41,94.79,cavity,,Y,met while drilling
+A07-109,368.0,494.0,fault,,Y,fault zone
+A07-111,70.5,71.5,broken,M-BH-01,Y,CB event
+A07-111,108.5,109.5,broken,M-BH-01;M-CL-01,Y,CB event
+A07-111,120.5,121.5,broken,M-CL-03,Y,CL event
+A07-111,122.5,123.5,broken,M-CL-02,N,CL event
+A07-111,54.0,123.0,fault,,Y,fault zone
+A07-112,267.13,267.48,loss,M-LC-06,Y,LC event
+A07-112,267.13,267.48,cavity,,Y,met while drilling
+A07-112,270.41,272.46,cavity,,Y,met while drilling
+A07-112,85.0,148.0,fault,,Y,fault zone
+A07-113,33.18,33.75,loss,M-LC-03,Y,LC event
+A07-113,33.18,33.75,cavity,,Y,met while drilling
+A07-113,177.03,178.23,cavity,,Y,met while drilling
+A07-115,472.0,506.0,fault,,Y,fault zone
+A07-116,320.5,321.5,broken,M-CL-01,Y,CL event
+A07-116,337.5,338.5,broken,M-CL-03,Y,CL event
+A07-117,235.5,236.5,broken,M-CS-01,Y,CL event
+A07-118,63.5,65.04,cavity,M-LC-07,Y,CV event
+A07-118,140.04,140.64,loss,M-LC-02,Y,LC event
+A07-118,9.15,11.06,cavity,,Y,met while drilling
+A07-118,19.15,20.34,cavity,,Y,met while drilling
+A07-118,140.04,140.64,cavity,,Y,met while drilling
+A07-119,141.06,142.49,cavity,M-LC-07,Y,CV event
+A07-120,100.5,101.5,broken,M-BH-01;M-CL-01,Y,CB event
+A07-120,185.22,186.39,cavity,,Y,met while drilling
+A07-120,191.41,192.52,cavity,,Y,met while drilling
+A07-120,218.29,219.16,cavity,,Y,met while drilling
+A07-123,25.5,26.5,clay,M-SP-03,N,SP event
+A07-125,584.0,600.0,fault,,Y,fault zone
+A07-126,391.5,392.5,water,M-WI-01,Y,WI event
+A07-126,408.5,409.5,broken,M-CS-01,Y,CL event
+A07-126,425.5,426.5,broken,M-CL-02,Y,CL event
+A07-126,378.0,431.0,fault,,Y,fault zone
+A07-127,47.5,48.5,broken,M-CS-01,Y,CL event
+A07-127,10.0,58.0,fault,,Y,fault zone
+A07-128,126.2,128.53,cavity,,Y,met while drilling
+A07-130,139.43,141.15,loss,M-LC-06,Y,LC event
+A07-130,182.5,183.5,clay,M-SP-01,N,SP event
+A07-130,10.09,10.75,cavity,,Y,met while drilling
+A07-130,139.43,141.15,cavity,,Y,met while drilling
+A07-130,138.0,183.0,fault,,Y,fault zone
+A07-131,81.02,85.87,cavity,M-CV-02,Y,CV event
+A07-131,293.5,294.5,broken,M-CL-03,Y,CL event
+A07-131,300.5,301.5,broken,M-CL-01;M-CL-03,Y,CL event
+A07-131,429.5,430.5,other,M-DV-01,Y,DV event
+A07-131,145.06,149.52,cavity,,Y,met while drilling
+A07-131,2.0,84.0,fault,,Y,fault zone
+A07-131,286.0,330.0,fault,,Y,fault zone
+A07-133,30.44,30.81,cavity,,Y,met while drilling
+A07-134,69.5,70.5,broken,M-CS-01,Y,CL event
+A07-134,100.5,101.5,broken,M-CL-03,Y,CL event
+A07-134,63.0,114.0,fault,,Y,fault zone
+A07-135,67.5,68.5,broken,M-BH-01,Y,CB event
+A07-135,259.5,260.5,broken,M-CL-01;M-BH-01,N,CB event
+A07-135,46.0,122.0,fault,,Y,fault zone
+A07-136,220.5,221.5,clay,M-SP-04,N,SP event
+A07-136,161.0,221.0,fault,,Y,fault zone
+A07-137,281.5,282.5,broken,M-CS-01,Y,CL event
+A07-138,85.5,86.5,broken,M-CL-02,N,CL event
+A07-139,104.38,108.25,cavity,,Y,met while drilling
+A07-139,154.15,154.51,cavity,,Y,met while drilling
+A07-140,64.5,65.5,broken,M-CL-02,Y,CL event
+A07-140,0.0,61.0,fault,,Y,fault zone
+A07-141,21.1,22.43,cavity,M-CV-02;M-LC-06,Y,CV event
+A07-141,59.37,60.07,cavity,M-LC-06,Y,CV event
+A07-141,26.01,30.65,cavity,,Y,met while drilling
+A07-141,40.38,44.12,cavity,,Y,met while drilling
+A07-141,193.29,193.49,cavity,,Y,met while drilling
+A07-143,15.0,63.0,fault,,Y,fault zone
+A07-145,377.5,378.5,broken,M-BH-01,Y,CB event
+A07-145,391.5,392.5,clay,M-SP-01,N,SP event
+A07-145,369.0,392.0,fault,,Y,fault zone
+A07-147,109.0,109.94,cavity,,Y,met while drilling
+A07-149,0.0,16.0,fault,,Y,fault zone
+A07-150,91.05,91.76,loss,M-LC-01;M-LC-06,Y,LC event
+A07-150,13.4,14.88,cavity,,Y,met while drilling
+A07-150,91.05,91.76,cavity,,Y,met while drilling
+A08-001,214.5,215.5,other,M-BH-03,Y,BW event
+A08-001,510.0,543.0,fault,,Y,fault zone
+A08-012,94.24,95.78,cavity,M-LC-07,Y,CV event
+A08-012,118.5,119.5,broken,M-CL-01,Y,CL event
+A08-012,133.11,135.11,loss,M-LC-04;M-LC-03;M-LC-07,Y,LC event
+A08-012,141.32,142.47,cavity,M-CV-01;M-LC-07;M-CV-02,N,CV event
+A08-012,133.11,135.11,cavity,,Y,met while drilling
+A08-012,88.0,142.0,fault,,Y,fault zone
+A08-014,188.5,189.5,broken,M-CL-03,Y,CL event
+A08-015,47.5,48.5,other,M-BH-03,Y,BG event
+A08-019,108.5,109.5,broken,M-CS-01,Y,CL event
+A08-022,186.5,187.5,other,M-DV-01,N,DV event
+A08-032,391.5,392.5,other,M-DV-01,Y,DV event
+A08-032,488.5,489.5,other,M-DV-01,N,DV event
+A08-034,33.5,34.5,broken,M-CS-01,Y,CL event
+A08-036,463.5,464.5,broken,M-CL-03,Y,CL event
+A08-036,470.5,471.5,broken,M-CL-02,Y,CL event
+A08-036,480.5,481.5,other,M-DV-01,Y,DV event
+A08-036,463.0,494.0,fault,,Y,fault zone
+A08-039,148.37,152.54,cavity,M-CV-02,Y,CV event
+A08-040,166.5,167.5,clay,M-SP-01,Y,SP event
+A08-040,191.09,191.7,cavity,,Y,met while drilling
+A08-044,46.5,47.5,broken,M-CL-01,Y,CB event
+A08-044,53.05,54.05,cavity,M-CV-01,Y,CV event
+A08-044,23.46,25.62,cavity,,Y,met while drilling
+A08-044,0.0,102.0,fault,,Y,fault zone
+A08-045,102.03,104.49,cavity,M-LC-07,Y,CV event
+A08-045,222.5,223.5,broken,M-CL-03;M-CL-02,Y,CL event
+A08-045,205.0,235.0,fault,,Y,fault zone
+A08-050,269.5,270.5,broken,M-CL-03,N,CL event
+A08-051,92.5,93.5,broken,M-CL-02,Y,CL event
+A08-051,98.5,99.5,broken,M-CS-01;M-CL-03,N,CL event
+A08-051,72.0,99.0,fault,,Y,fault zone
+A08-052,230.5,231.5,broken,M-BH-01;M-CL-01,N,CB event
+A08-055,18.5,19.5,broken,M-BH-01,Y,CB event
+A08-055,35.5,36.5,clay,M-SP-03,Y,SP event
+A08-055,0.0,42.0,fault,,Y,fault zone
+A08-057,627.5,628.5,clay,M-SP-04;M-SP-01,N,SP event
+A08-063,424.5,425.5,broken,M-BH-01,N,CB event
+A08-067,174.5,175.5,broken,M-CL-01;M-BH-01,N,CB event
+A08-069,84.12,85.15,loss,M-LC-06,Y,LC event
+A08-069,84.12,85.15,cavity,,Y,met while drilling
+A08-071,78.5,79.5,clay,M-SP-04;M-SP-01,Y,SP event
+A08-071,106.5,107.5,broken,M-CL-01,N,CB event
+A08-072,42.5,43.5,clay,M-SP-01,N,SP event
+A08-073,58.2,60.89,loss,M-LC-03;M-LC-02,Y,LC event
+A08-073,84.07,85.8,loss,M-LC-06,Y,LC event
+A08-073,58.2,60.89,cavity,,Y,met while drilling
+A08-073,84.07,85.8,cavity,,Y,met while drilling
+A08-073,121.2,121.8,cavity,,Y,met while drilling
+A08-077,15.06,15.53,cavity,M-LC-07,Y,CV event
+A08-077,72.41,72.81,cavity,M-CV-02,Y,CV event
+A08-077,30.27,30.86,cavity,,Y,met while drilling
+A08-078,0.5,1.5,broken,M-CL-01,Y,CB event
+A08-078,192.38,197.4,cavity,M-LC-07,Y,CV event
+A08-078,0.0,28.0,fault,,Y,fault zone
+A08-080,96.5,97.5,broken,M-BH-01;M-CL-01,N,CB event
+A08-081,319.24,319.67,cavity,M-CV-02,Y,CV event
+A08-083,75.09,79.84,loss,M-LC-06;M-LC-07,N,LC event
+A08-083,75.09,79.84,cavity,,Y,met while drilling
+A08-084,146.36,150.67,loss,M-LC-07,Y,LC event
+A08-084,146.36,150.67,cavity,,Y,met while drilling
+A08-085,61.27,62.83,cavity,,Y,met while drilling
+A08-085,98.04,100.94,cavity,,Y,met while drilling
+A08-086,355.03,360.52,cavity,M-CV-01,Y,CV event
+A08-087,147.5,148.5,broken,M-CL-03,Y,CL event
+A08-087,332.5,333.5,broken,M-CL-01;M-CS-01,N,CL event
+A08-088,169.04,173.12,loss,M-LC-07,Y,LC event
+A08-088,214.43,221.57,loss,M-LC-03,N,LC event
+A08-088,146.36,146.84,cavity,,Y,met while drilling
+A08-088,161.35,161.55,cavity,,Y,met while drilling
+A08-088,169.04,173.12,cavity,,Y,met while drilling
+A08-088,214.43,221.57,cavity,,Y,met while drilling
+A08-089,339.5,340.5,other,M-BH-03,N,BW event
+A08-091,309.5,310.5,clay,M-SP-01,N,SP event
+A08-097,0.5,1.5,other,M-DV-01,Y,DV event
+A08-097,75.5,76.5,other,M-DV-01,N,DV event
+A08-100,22.34,23.02,loss,M-LC-03;M-LC-07,Y,LC event
+A08-100,22.34,23.02,cavity,,Y,met while drilling
+A08-106,151.5,152.5,other,M-BH-03,N,BW event
+A08-110,272.5,273.5,other,M-BH-03,Y,BW event
+A08-111,356.5,357.5,broken,M-CL-02,Y,CL event
+A08-114,200.5,201.5,other,M-DV-01,N,DV event
+A08-115,14.5,15.5,broken,M-CL-03,Y,CL event
+A08-115,54.5,55.5,broken,M-CL-01,Y,CB event
+A08-115,64.5,65.5,broken,M-CL-02,N,CL event
+A08-115,11.08,12.18,cavity,,Y,met while drilling
+A08-115,30.24,31.74,cavity,,Y,met while drilling
+A08-115,4.0,65.0,fault,,Y,fault zone
+A08-118,89.41,89.61,loss,M-LC-02,Y,LC event
+A08-118,89.41,89.61,cavity,,Y,met while drilling
+A08-121,136.5,137.5,broken,M-CL-03;M-CL-02,Y,CL event
+A08-124,236.21,236.43,cavity,,Y,met while drilling
+A08-126,23.39,28.65,loss,M-LC-06,Y,LC event
+A08-126,23.39,28.65,cavity,,Y,met while drilling
+A08-127,94.48,95.71,cavity,,Y,met while drilling
+A08-132,31.5,32.5,other,M-DV-01,Y,DV event
+A08-133,114.02,115.28,cavity,,Y,met while drilling
+A08-134,488.0,500.0,fault,,Y,fault zone
+A08-140,246.5,247.5,broken,M-CL-03,Y,CL event
+A08-140,238.0,270.0,fault,,Y,fault zone
+A08-144,117.5,118.5,other,M-BG-01,Y,BG event
+A08-144,223.5,224.5,other,M-BH-03,Y,BW event
+A08-144,27.47,29.63,cavity,,Y,met while drilling
+A08-146,13.5,14.5,broken,M-BH-01,Y,CB event
+A08-146,171.5,172.5,clay,M-SP-03;M-SP-04,Y,SP event
+A08-146,212.5,213.5,broken,M-CL-03,Y,CL event

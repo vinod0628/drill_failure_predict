@@ -1,0 +1,91 @@
+# 3D MPM Studio - complete pinned package set for the offline install (Python 3.10, win_amd64).
+# install_env.bat installs exactly these from whl\ with:  pip install --no-index --no-deps -r requirements-offline.txt
+# Every line needs a matching wheel in whl\. Regenerate this list only from a tested .venv.
+
+# ---- GUI: Qt 6 ----------------------------------------------------------------
+PySide6_Essentials==6.12.0
+shiboken6==6.12.0
+QtPy==2.4.3
+QtAwesome==1.4.2
+
+# ---- 3D rendering -------------------------------------------------------------
+vtk==9.7.2
+pyvista==0.49.2
+pyvistaqt==0.14.0
+pyvista-validation==0.2.2
+scooby==0.12.1
+pooch==1.9.0
+platformdirs==4.12.4
+requests==2.34.2
+certifi==2026.10.23
+charset-normalizer==3.5.2
+idna==3.20
+urllib3==2.8.0
+cyclopts==4.25.3
+attrs==26.1.0
+docstring_parser==0.18.0
+rich==15.0.0
+rich-rst==2.2.0
+markdown-it-py==4.3.0
+mdurl==0.1.2
+Pygments==2.21.0
+
+# ---- matplotlib (colour maps for VTK / pyvista) ---------------------------------
+matplotlib==3.10.9
+contourpy==1.3.2
+cycler==0.12.1
+fonttools==4.65.0
+kiwisolver==1.5.1
+pillow==12.3.0
+pyparsing==3.3.3
+python-dateutil==3.0.0
+six==1.17.0
+
+# ---- 3D MPM: machine learning / scientific ---------------------------------------
+scipy==1.15.3
+scikit-learn==1.7.2
+joblib==1.6.0
+cloudpickle==3.1.3
+threadpoolctl==3.8.0
+lightgbm==4.7.0
+narwhals==2.29.0
+h5py==3.16.0
+tifffile==2025.5.10
+
+# ---- data ------------------------------------------------------------------------
+numpy==2.2.6
+pandas==2.3.3
+pytz==2026.6
+tzdata==2026.6
+pyarrow==25.0.1
+ezdxf==1.4.5
+access_parser==0.0.6
+construct==2.10.70
+tabulate==0.10.0
+PyMySQL==1.2.4
+cryptography==50.0.2
+cffi==2.1.1
+pycparser==3.11
+openpyxl==3.1.5
+et_xmlfile==2.0.0
+
+# ---- shared helpers ------------------------------------------------------------
+packaging==26.3
+typing_extensions==4.16.0
+exceptiongroup==1.3.2
+tomli==2.5.0
+colorama==0.4.6
+
+# ---- tests / development -------------------------------------------------------------------------
+pytest==9.2.0
+iniconfig==2.3.1
+pluggy==1.7.0
+pyflakes==4.0.3
+
+# ---- build (PyInstaller) -----------------------------------------------------------
+pyinstaller==6.22.3
+pyinstaller-hooks-contrib==2026.10
+altgraph==0.17.5
+pefile==2024.8.26
+pywin32-ctypes==0.2.3
+setuptools==84.2.1

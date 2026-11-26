@@ -1,0 +1,285 @@
+{
+  "format": "GeoViewer workspace",
+  "version": 1,
+  "app_version": "0.1.0",
+  "saved": "2026-11-26T16:33:28",
+  "view": null,
+  "layers": [
+    {
+      "name": "Drillholes (database)",
+      "type": "DrillholeLayer",
+      "part": "",
+      "files": [],
+      "settings": {
+        "visible": true,
+        "diameter": 3.0,
+        "area": "SB3"
+      },
+      "source": "database"
+    },
+    {
+      "name": "horizon_H1_U1-U2",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "model/horizon_H1_U1-U2.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.55,
+        "color": [
+          0.93,
+          0.8,
+          0.45
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "horizon"
+      }
+    },
+    {
+      "name": "horizon_H2_U2-U3",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "model/horizon_H2_U2-U3.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.55,
+        "color": [
+          0.35,
+          0.35,
+          0.4
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "horizon"
+      }
+    },
+    {
+      "name": "horizon_H3_U3-U4",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "model/horizon_H3_U3-U4.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.55,
+        "color": [
+          0.3,
+          0.65,
+          0.95
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "horizon"
+      }
+    },
+    {
+      "name": "horizon_H4_U4-U5",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "model/horizon_H4_U4-U5.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.55,
+        "color": [
+          0.62,
+          0.78,
+          0.45
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "horizon"
+      }
+    },
+    {
+      "name": "horizon_H5_U5-U6",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "model/horizon_H5_U5-U6.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.55,
+        "color": [
+          0.8,
+          0.55,
+          0.85
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "horizon"
+      }
+    },
+    {
+      "name": "F1",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "faults/F1.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.6,
+        "color": [
+          0.9,
+          0.2,
+          0.2
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "fault"
+      }
+    },
+    {
+      "name": "F2",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "faults/F2.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.6,
+        "color": [
+          0.9,
+          0.2,
+          0.2
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "fault"
+      }
+    },
+    {
+      "name": "F3",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "faults/F3.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.6,
+        "color": [
+          0.9,
+          0.2,
+          0.2
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "fault"
+      }
+    },
+    {
+      "name": "F4",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "faults/F4.dtm"
+      ],
+      "settings": {
+        "visible": true,
+        "opacity": 0.6,
+        "color": [
+          0.9,
+          0.2,
+          0.2
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "fault"
+      }
+    },
+    {
+      "name": "ore_solids",
+      "type": "SurfaceLayer",
+      "part": "",
+      "files": [
+        "model/ore_solids.dtm"
+      ],
+      "settings": {
+        "visible": false,
+        "opacity": 1.0,
+        "color": [
+          0.95,
+          0.75,
+          0.15
+        ],
+        "use_styles": false,
+        "smooth": true,
+        "show_edges": false,
+        "role": "orebody"
+      }
+    },
+    {
+      "name": "original_bm",
+      "type": "BlockModelLayer",
+      "part": "",
+      "files": [
+        "block_model/original_bm.gvbm"
+      ],
+      "settings": {
+        "visible": false,
+        "opacity": 1.0,
+        "color": [
+          0.45,
+          0.82,
+          0.4
+        ],
+        "color_by": "lith",
+        "cmap": "turbo",
+        "hide_null": true,
+        "value_min": null,
+        "value_max": null,
+        "clim": null,
+        "show_edges": false,
+        "constraints": [],
+        "constraint_logic": "and",
+        "mined_display": "gray"
+      }
+    }
+  ],
+  "known_files": [
+    "block_model/original_bm.gvbm",
+    "drillholes/assay.csv",
+    "drillholes/collar.csv",
+    "drillholes/geology.csv",
+    "drillholes/survey.csv",
+    "faults/F1.dtm",
+    "faults/F1.str",
+    "faults/F2.dtm",
+    "faults/F2.str",
+    "faults/F3.dtm",
+    "faults/F3.str",
+    "faults/F4.dtm",
+    "faults/F4.str",
+    "model/horizon_H1_U1-U2.dtm",
+    "model/horizon_H1_U1-U2.str",
+    "model/horizon_H2_U2-U3.dtm",
+    "model/horizon_H2_U2-U3.str",
+    "model/horizon_H3_U3-U4.dtm",
+    "model/horizon_H3_U3-U4.str",
+    "model/horizon_H4_U4-U5.dtm",
+    "model/horizon_H4_U4-U5.str",
+    "model/horizon_H5_U5-U6.dtm",
+    "model/horizon_H5_U5-U6.str",
+    "model/ore_solids.dtm",
+    "model/ore_solids.str"
+  ]
+}
